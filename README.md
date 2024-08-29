@@ -69,7 +69,7 @@ The scripts found in this repository create a final output in a JSON file with A
    ```
    then
    ```bash
-   nodegetFuncArea.js
+   node getFuncArea.js
    ```
    and finally
    ```bash

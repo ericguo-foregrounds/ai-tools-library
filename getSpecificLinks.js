@@ -10,7 +10,7 @@ let processedTools = []; // array to put the data from processed tools
 let currentIndex = 0; // will be used later
 
 iterateData();
-
+// uses cheerio to identify links that might contain useful information for us
 async function scrapeWebsite(url) {
     console.log(`Processing ${url}...`);
     let useCaseLink = "";
@@ -43,13 +43,13 @@ async function scrapeWebsite(url) {
             console.log("pricing link NOT found");
         }
 
-        // Attempts to find a key features link
+        // Attempts to find key features links - gets the href of each of those links
         featureLinks = $('a:contains("feature"), a:contains("Features"), a:contains("Capabilities"), a:contains("function"), a:contains("Functionality"), a:contains("tool"), a:contains("module"), a.features, a.capabilities, a.functions, a.functionality, a#features, a#capabilities')
         .map((index, element) => $(element).attr('href'))
         .get();
         if (featureLinks) {
             console.log("feature link found");
-            featureLinks = featureLinks.map(link => new URL(link, url).href);
+            featureLinks = featureLinks.map(link => new URL(link, url).href); // uses the href to make a URL
             featureLinks = featureLinks.filter((link, index) => featureLinks.indexOf(link) === index); // removes duplicate links
             console.log(featureLinks);
         }
@@ -75,13 +75,13 @@ function iterateData() {
             .then(data => {
                 processedTools.push({ name: tool.name, url: url, desc: tool.desc, homepage: tool.homepage, ...data});
                 currentIndex++;
-                setTimeout(iterateData, 500); // Wait for 9 seconds before processing the next item
+                setTimeout(iterateData, 500); // Wait for .5 seconds before processing the next item
             })
             .catch(err => {
                 console.log("Error processing link", err);
                 processedTools.push({ name: tool.name, url: url, desc: tool.desc, homepage: "Homepage Data Missing", useCaseLink: "", pricingLink: "", featureLinks: []});
                 currentIndex++;
-                setTimeout(iterateData, 500); // Wait for 9 seconds before processing the next item
+                setTimeout(iterateData, 500); // Wait for .5 seconds before processing the next item
             })
     }
     else { // this means we've iterated through the entire array - we can write to csv file now.

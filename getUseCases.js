@@ -33,13 +33,13 @@ function iterateData() {
             .then(res => {
                 finalData.push({name: tool.name, url: tool.url, desc: tool.desc, homepage: tool.homepage, pricingLink: tool.pricingLink, featureLinks: tool.featureLinks, ...res});
                 currentIndex++;
-                setTimeout(iterateData, 5000);
+                setTimeout(iterateData, 3000);
             })
             .catch(e => {
                 console.log(e);
                 finalData.push({name: tool.name, url: tool.url, desc: tool.desc, homepage: tool.homepage, pricingLink: tool.pricingLink, featureLinks: tool.featureLinks, useCases: ["Use cases cannot be determined."]});
                 currentIndex++;
-                setTimeout(iterateData, 5000);
+                setTimeout(iterateData, 3000);
             })
     }
     else { // Once every url has been iterated through
@@ -53,10 +53,10 @@ function iterateData() {
 async function getUseCase(tool) {
     console.log(`Now processing ${tool.url}`);
     let data = tool.homepage + tool.desc;
-
+    // if a use case link exists
     if (tool.useCaseLink) {
         try {
-            const jinaResponse = await axios.get(`https://r.jina.ai/${tool.useCaseLink}`);
+            const jinaResponse = await axios.get(`https://r.jina.ai/${tool.useCaseLink}`); // use jina to scrape that link
             let text = jinaResponse.data;
             console.log("Jina scraped", tool.useCaseLink);
             text = text.replace(/https?:\/\/\S+\b/g, ''); // Removes URLs
@@ -72,7 +72,7 @@ async function getUseCase(tool) {
     if(data.length > 15000) {
         data = data.substring(0, 15000);
     }
-
+    // feed scraped data into LLM for it to determine use cases
     try {
         const completion = await openai.beta.chat.completions.parse({
             model: "gpt-4o-mini",

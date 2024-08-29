@@ -55,18 +55,16 @@ function iterateData() {
 
 async function pruneTool(tool) {
     console.log(`Now processing ${tool.name}`);
-
+    // converts useCases and keyFeatures arrays into strings to feed into the LLM
     let useCases = "";
     for (let useCase of tool.useCases) {
         useCases += `${useCase}, `;
     }
-    console.log(useCases);
 
     let keyFeatures = "";
     for (let feature of tool.keyFeatures) {
         keyFeatures += `${feature}, `;
     }
-    console.log(keyFeatures);
 
     try {
         const completion = await openai.beta.chat.completions.parse({

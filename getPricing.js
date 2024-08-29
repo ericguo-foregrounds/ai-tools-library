@@ -54,8 +54,9 @@ async function getPricingModel(tool) {
     console.log(`Now processing ${tool.url}`);
     let data = tool.homepage + tool.desc;
 
+    // if a pricing link exists
     if (tool.pricingLink) {
-        try {
+        try { // use Jina to scrape it and get that data
             const jinaResponse = await axios.get(`https://r.jina.ai/${tool.pricingLink}`);
             let text = jinaResponse.data;
             text = text.replace(/https?:\/\/\S+\b/g, ''); // Removes URLs
@@ -72,7 +73,7 @@ async function getPricingModel(tool) {
     if(data.length > 15000) {
         data = data.substring(0, 15000);
     }
-
+    // now, we feed the scraped data into the LLM for it to determine a pricing model
     try {
         const completion = await openai.beta.chat.completions.parse({
             model: "gpt-4o-mini",

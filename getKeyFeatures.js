@@ -53,9 +53,9 @@ function iterateData() {
 async function getKeyFeatures(tool) {
     console.log(`Now processing ${tool.url}`);
     let data = tool.homepage + tool.desc;
-
+    // if there are feature links
     if (tool.featureLinks) {
-        for(const link of tool.featureLinks) {
+        for(const link of tool.featureLinks) { // since featureLinks is an array, we need to iterate through it
             try {
                 const jinaResponse = await axios.get(`https://r.jina.ai/${link}`);
                 let text = jinaResponse.data;
@@ -74,7 +74,7 @@ async function getKeyFeatures(tool) {
     if(data.length > 20000) {
         data = data.substring(0, 20000);
     }
-
+    // feed scraped data into LLM for it to determine key features
     try {
         const completion = await openai.beta.chat.completions.parse({
             model: "gpt-4o-mini",
@@ -101,5 +101,5 @@ async function getKeyFeatures(tool) {
           console.log("An error occurred: ", e.message);
           return ["Key features cannot be determined."];
         }
-      }
+    }
 }

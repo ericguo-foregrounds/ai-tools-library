@@ -49,7 +49,7 @@ function iterateData() {
 
 async function getFuncArea(tool) {
     console.log(`Now processing ${tool.name}`);
-
+    // convert the useCases and keyFeatures arrays to strings to feed into the LLM.
     let useCases = "";
     for (let useCase of tool.useCases) {
         useCases += `${useCase}, `;
@@ -58,9 +58,6 @@ async function getFuncArea(tool) {
     let keyFeatures = "";
     for (let feature of tool.keyFeatures) {
         keyFeatures += `${feature}, `;
-    }
-    if (data.length > 15000) {
-        data = data.substring(0, 15000);
     }
 
     try {
