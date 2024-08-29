@@ -1,4 +1,3 @@
-const axios = require("axios");
 const fs = require("fs");
 const { OpenAI } = require("openai");
 const { zodResponseFormat } = require("openai/helpers/zod");
@@ -41,7 +40,7 @@ function iterateData() {
             })
     }
     else { // Once every url has been iterated through
-        fs.writeFile('data/finalData.json', JSON.stringify(finalData, null, 2), (err) => {
+        fs.writeFile('data/funcAreaData.json', JSON.stringify(finalData, null, 2), (err) => {
             if (err) throw err;
             console.log('Final data with funcArea saved.');
         });

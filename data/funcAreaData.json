@@ -1,7 +1,7 @@
 [
   {
     "name": "BeforesunsetAI",
-    "url": "https://www.beforesunset.ai/",
+    "url": "https://www.beforesunset.ai/?via=insidrai",
     "desc": "An AI daily planner that helps busy professionals and teams save time while maximizing their focus.",
     "useCases": [
       "Generate ideal workspaces using AI",
@@ -43,7 +43,7 @@
   },
   {
     "name": "Leap",
-    "url": "https://www.tryleap.ai/",
+    "url": "https://www.tryleap.ai/?ref=insidrai",
     "desc": "Automate Sales & Marketing workflows with AI. Augment your team with AI automation for content generation, lead enrichment, email outreach, and more.",
     "useCases": [
       "Writing blog posts",
@@ -85,7 +85,7 @@
   },
   {
     "name": "Creatify",
-    "url": "https://creatify.ai/",
+    "url": "https://creatify.ai/?via=insidrai",
     "desc": "The fastest way to create short video ads. Creatify is an AI-powered app that generates high-quality marketing videos from a simple product link or a description.",
     "useCases": [
       "Generate high-quality marketing videos from product links or descriptions",
@@ -115,7 +115,7 @@
   },
   {
     "name": "ChatWithPDF",
-    "url": "https://paperguide.ai/",
+    "url": "https://paperguide.ai/?ref=insidrai?from=chatwithpdf",
     "desc": "Summarize and Chat with any PDF or Youtube Video Simplify research - Chat with PDFs, summarize PDFs and summarize Youtube videos.",
     "useCases": [
       "Accelerate research processes for academic and corporate environments",
@@ -155,7 +155,7 @@
   },
   {
     "name": "CustomGPT",
-    "url": "https://customgpt.ai/",
+    "url": "https://customgpt.ai/?fpr=insidrai",
     "desc": "Create Your Own Custom GPT With ALL Your Business Content. Accurate GPT-4 responses from your content without making up facts. All within a no-code, secure, privacy-first, business-grade platform.",
     "useCases": [
       "Customer Service",
@@ -182,7 +182,7 @@
   },
   {
     "name": "Highperformr",
-    "url": "https://www.highperformr.ai/",
+    "url": "https://www.highperformr.ai/?signup=true&fp_ref=insidrai",
     "desc": "Get Better ROI from Social Media. Highperformr AI's modern social media management platform amplifies online presence, fuels lead generation, and accelerates pipeline growth for B2B businesses.",
     "useCases": [
       "Streamlining social media management for B2B businesses",
@@ -213,7 +213,7 @@
   },
   {
     "name": "Formula Bot",
-    "url": "https://formulabot.com/",
+    "url": "https://formulabot.com/?utm_source=insidrai",
     "desc": "Formula Bot is an AI tool that simplifies Excel tasks by converting instructions in English or Spanish into Excel formulas. It also offers spreadsheet analysis, SQL and VBA creation, making complex tasks more manageable. Ideal for both work and educational purposes, it's user-friendly and effective for those struggling with Excel formulas",
     "useCases": [
       "Automating data analysis in spreadsheets",
@@ -241,7 +241,7 @@
   },
   {
     "name": "FormulasHQ",
-    "url": "https://formulashq.com/",
+    "url": "https://formulashq.com/?utm_source=insidrai",
     "desc": "FormulasHQ is an AI-powered formula generator for Excel and Google Sheets, designed to automate the creation of complex formulas, enhancing productivity in data analysis and spreadsheet management.",
     "useCases": [
       "Automating the creation of complex Excel and Google Sheets formulas",
@@ -274,7 +274,7 @@
   },
   {
     "name": "GPT Excel",
-    "url": "https://gptexcel.uk/",
+    "url": "https://gptexcel.uk/?utm_source=insidrai",
     "desc": "GPT Excel is an AI-driven tool that automates the creation of complex Excel and Google Sheets formulas, enhancing productivity by integrating capabilities for generating and understanding VBA and Apps Scripts, SQL queries, and regular expressions.",
     "useCases": [
       "Streamline spreadsheet processes for businesses",
@@ -301,7 +301,7 @@
   },
   {
     "name": "Numerous.ai",
-    "url": "https://numerous.ai/",
+    "url": "https://numerous.ai/?utm_source=insidrai",
     "desc": "Numerous.ai is an AI-enhanced add-on for Google Sheets and Excel that simplifies the use of ChatGPT in spreadsheets for data analysis, content creation, and more, without requiring API keys.",
     "useCases": [
       "Enhancing digital marketing campaigns by generating AdWords keywords, ad copy, and SEO content.",
@@ -330,7 +330,7 @@
   },
   {
     "name": "Gigasheet",
-    "url": "https://www.gigasheet.com/",
+    "url": "https://www.gigasheet.com/?utm_source=insidrai",
     "desc": "Gigasheet is a big data spreadsheet tool that simplifies managing vast datasets without complex databases or coding, offering features like automated repetitive tasks and seamless cloud integration.",
     "useCases": [
       "Analyze large data files",
@@ -364,7 +364,7 @@
   },
   {
     "name": "Arcwise",
-    "url": "https://arcwise.app/",
+    "url": "https://arcwise.app/?utm_source=insidrai",
     "desc": "Arcwise AI is your ChatGPT AI Copilot for Spreadsheets! Just press Cmd+Shift+1 / Ctrl+Shift+1 in Google Sheets. You can leverage ChatGPT and our proprietary AI technology to: ask questions about your spreadsheet, clean messy data, get help writing formulas with our formula copilot, and scrape the web from any open chrome tab.",
     "useCases": [
       "Gain insights from data in spreadsheets",
@@ -397,7 +397,7 @@
   },
   {
     "name": "Regie",
-    "url": "https://www.regie.ai/",
+    "url": "https://www.regie.ai/?utm_source=insidrai",
     "desc": "Regie helps sales, marketing, and success teams write engaging content faster using AI",
     "useCases": [
       "Streamlining prospecting for sales teams",
@@ -430,7 +430,7 @@
   },
   {
     "name": "Outplayhq",
-    "url": "https://outplayhq.com/",
+    "url": "https://outplayhq.com/?utm_source=insidrai",
     "desc": "Outplay is an all-in-one multichannel sales engagement platform that helps sales teams close more deals and significantly increase revenue.",
     "useCases": [
       "Automating outreach across multiple channels",
@@ -461,7 +461,7 @@
   },
   {
     "name": "Drift",
-    "url": "https://www.drift.com/",
+    "url": "https://www.drift.com/?utm_source=insidrai",
     "desc": "Drift is an AI-powered buyer engagement platform that automates conversations with website visitors to personalize experiences, qualify leads, and increase sales efficiency using conversational marketing and sales tools.",
     "useCases": [
       "Generate High-Quality Leads",
@@ -498,7 +498,7 @@
   },
   {
     "name": "HubSpot",
-    "url": "https://www.hubspot.com/",
+    "url": "https://www.hubspot.com/?utm_source=insidrai",
     "desc": "HubSpot is an integrated AI-powered platform that consolidates marketing, sales, and customer service tools to help businesses grow by managing their operations efficiently and focusing on customer relationships.",
     "useCases": [
       "Generate leads",
@@ -584,7 +584,7 @@
   },
   {
     "name": "Apollo.io",
-    "url": "https://www.apollo.io/",
+    "url": "https://www.apollo.io/?utm_source=insidrai",
     "desc": "Apollo.io is a sales intelligence and engagement platform that helps users find and engage with potential leads using accurate B2B data, providing tools for automated outreach and pipeline management.",
     "useCases": [
       "Find the right leads and companies",
@@ -619,7 +619,7 @@
   },
   {
     "name": "Seamless.AI",
-    "url": "https://seamless.ai/",
+    "url": "https://seamless.ai/?utm_source=insidrai",
     "desc": "Seamless.AI is a real-time sales leads search engine that finds and verifies contact information for potential customers, enabling B2B companies to enhance sales prospecting and performance efficiently.",
     "useCases": [
       "Sales prospecting",
@@ -649,7 +649,7 @@
   },
   {
     "name": "Clay",
-    "url": "https://www.clay.com/",
+    "url": "https://www.clay.com/?utm_source=insidrai",
     "desc": "Clay is a powerful platform designed to enhance outbound marketing through superior data enrichment, offering a robust AI to automate personalized outreach and research, simplifying and optimizing campaign executions.",
     "useCases": [
       "List building",
@@ -679,7 +679,7 @@
   },
   {
     "name": "SalesBlink",
-    "url": "https://salesblink.io/",
+    "url": "https://salesblink.io/?aff=ILRmRUJasQB1",
     "desc": "SalesBlink is a robust AI-powered sales automation platform that streamlines cold email outreach, meeting scheduling, and CRM integration, enhancing efficiency in sales processes.",
     "useCases": [
       "Automate cold email outreach and follow-ups",
@@ -711,7 +711,7 @@
   },
   {
     "name": "Air AI",
-    "url": "https://www.air.ai/",
+    "url": "https://www.air.ai/?utm_source=insidrai",
     "desc": "Air.ai introduces an advanced AI capable of conducting 10-40 minute phone calls indistinguishable from human interaction, with perfect recall and autonomous action across 5,000+ applications, operating continuously without training or management.",
     "useCases": [
       "Sales automation",
@@ -734,7 +734,7 @@
   },
   {
     "name": "Casetext",
-    "url": "https://casetext.com/",
+    "url": "https://casetext.com/?utm_source=insidrai",
     "desc": "Modern search technology that finds cases Lexis and Westlaw miss. Don’t run the risk of missing precedent. Get faster, more accurate legal research at an affordable price.",
     "useCases": [
       "Fast-track deposition preparation",
@@ -764,7 +764,7 @@
   },
   {
     "name": "Ferret",
-    "url": "https://www.ferret.ai/",
+    "url": "https://www.ferret.ai/?utm_source=insidrai",
     "desc": "Ferret’s unparalleled AI app, combined with world class information, provides you with exclusive relationship intelligence that can help you avoid high-risk individuals and spot promising opportunities.",
     "useCases": [
       "Automated due diligence for potential business partners",
@@ -790,7 +790,7 @@
   },
   {
     "name": "Lex Machina",
-    "url": "https://lexmachina.com/",
+    "url": "https://lexmachina.com/?utm_source=insidrai",
     "desc": "Lex Machina provides legal analytics tools that leverage AI to predict the behavior of courts, judges, lawyers, and parties, offering valuable insights to improve litigation strategies and case outcomes.",
     "useCases": [
       "Predict court and judge behavior",
@@ -815,7 +815,7 @@
   },
   {
     "name": "Detangle",
-    "url": "https://detangle.ai/",
+    "url": "https://detangle.ai/?utm_source=insidrai",
     "desc": "Detangle gives you AI-generated summaries of your legal docs so you can actually understand them.",
     "useCases": [
       "Efficient legal document analysis",
@@ -840,7 +840,7 @@
   },
   {
     "name": "Spellbook",
-    "url": "https://www.spellbook.legal/",
+    "url": "https://www.spellbook.legal/?utm_source=insidrai",
     "desc": "Draft contracts 3x faster with AI. Spellbook uses GPT-3 to review and suggest language for your contracts in Microsoft Word. Trained on billions of lines of legalese, Spellbook suggests language for your contracts instantly.",
     "useCases": [
       "Draft contracts faster using AI",
@@ -871,7 +871,7 @@
   },
   {
     "name": "DISCO Ediscovery",
-    "url": "https://csdisco.com/offerings/ediscovery",
+    "url": "https://csdisco.com/offerings/ediscovery?utm_source=insidrai",
     "desc": "DISCO Ediscovery offers advanced AI-powered tools for legal professionals to efficiently manage evidence, streamline document review, and enhance data security, facilitating faster and more accurate legal workflows.",
     "useCases": [
       "Streamlining document review processes in legal practices",
@@ -899,7 +899,7 @@
   },
   {
     "name": "ClickUp",
-    "url": "https://clickup.com/",
+    "url": "https://clickup.com/?utm_source=insidrai",
     "desc": "ClickUp is a comprehensive productivity platform that consolidates tasks, docs, chats, and goals into a single workspace to streamline workflow and enhance collaboration across teams.",
     "useCases": [
       "Improve collaboration across remote teams",
@@ -932,7 +932,7 @@
   },
   {
     "name": "AI Lawyer",
-    "url": "https://ailawyer.pro/",
+    "url": "https://ailawyer.pro/?utm_source=insidrai",
     "desc": "AI Lawyer is an AI-powered legal assistant offering affordable legal consultation, document automation, and advanced legal research, designed to save time for consumers, lawyers, and law students.",
     "useCases": [
       "Automating legal research",
@@ -968,7 +968,7 @@
   },
   {
     "name": "Rationale",
-    "url": "https://rationale.jina.ai/",
+    "url": "https://rationale.jina.ai/?utm_source=insidrai",
     "desc": "Rationale is an app that helps entrepreneurs and managers in making tough decisions. Simply enter your pending decision and their AI powered app will list pros and cons or generate a SWOT analysis to help you weigh your options",
     "useCases": [
       "Assisting business owners in making tough decisions",
@@ -1031,7 +1031,7 @@
   },
   {
     "name": "Image-Gen",
-    "url": "https://image-gen.lemonsqueezy.com/",
+    "url": "https://image-gen.lemonsqueezy.com/?aff=1W4VR",
     "desc": "Generate Images in Seconds Without Limits. The ultimate tool for crafting the images and photos you want. High-quality results, private, and all at an affordable one-time cost.",
     "useCases": [
       "Generate high-quality images quickly for marketing and promotional materials.",
@@ -1053,7 +1053,7 @@
   },
   {
     "name": "Notion",
-    "url": "https://www.notion.so/product",
+    "url": "https://www.notion.so/product?via=insidrai&utm_source=affl&utm_medium=lasselinnes1376&pscd=affiliate.notion.so&ps_partner_key=bGFzc2VsaW5uZXMxMzc2&ps_xid=e7t47x1gwCLqiV&gsxid=e7t47x1gwCLqiV&gspk=bGFzc2VsaW5uZXMxMzc2",
     "desc": "Leverage the limitless power of AI in any Notion page. Write faster, think bigger, and augment creativity. All you wiki's, docs and projects in one place. Notion is the connected workspace where better, faster work happens.",
     "useCases": [
       "Centralized knowledge management through wikis",
@@ -1086,7 +1086,7 @@
   },
   {
     "name": "Signm",
-    "url": "https://signm.io/",
+    "url": "https://signm.io/?source=insidr",
     "desc": "Uncover market trends in seconds, not hours. Get an investing edge with Al powered financial news and social media analysis. Over 1,500+ financial news articles analyzed daily from 50 top financial news sources. Over 2 million+ social media posts analyzed daily from X/Twitter and Reddit.",
     "useCases": [
       "Real-time analysis of news and social media for investment decisions",
@@ -1115,7 +1115,7 @@
   },
   {
     "name": "Bubble",
-    "url": "https://bubble.io/",
+    "url": "https://bubble.io/?irclickid=&utm_source=LasseL&utm_medium=affiliate&utm_campaign=Online%20Tracking%20Link&utm_content=&irgwc=1",
     "desc": "The world’s only full-stack, no-code platform. Design, develop, and launch production-grade applications without code. It doesn't matter if you’re starting out or on an enterprise team — Bubble is for anyone. Build AI-powered apps without code: Launch and scale apps with all the latest tech, including Open AI and Chat GPT.",
     "useCases": [
       "No-code app development for enterprises",
@@ -1167,7 +1167,7 @@
   },
   {
     "name": "WordTune",
-    "url": "https://www.wordtune.com/",
+    "url": "https://www.wordtune.com/?utm_source=insidrai",
     "desc": "Wordtune is an AI writing assistant designed to improve writing efficiency and quality. It offers features like Wordtune Rewrite for refining writing, an AI assistant for personalized suggestions, a creative AI tool for generating content, and a summarizer to condense information. It also provides AI answers for research and information management. Wordtune is versatile, working across various platforms including Google Docs, Gmail, and social media. It enhances communication, saves time in writing and editing, and is trusted by professionals globally for improving productivity and content quality.",
     "useCases": [
       "Improve writing efficiency for emails, reports, and communications.",
@@ -1195,7 +1195,7 @@
   },
   {
     "name": "Paraphraser.io",
-    "url": "https://www.paraphraser.io/",
+    "url": "https://www.paraphraser.io/?aff_id=8730e983cd5f521628baecbf571e8764",
     "desc": "Paraphraser.io is a free AI-driven tool designed to enhance text clarity and uniqueness. It offers multiple rewriting modes to suit different styles and supports over 15 languages, ensuring content is plagiarism-free and creatively written.",
     "useCases": [
       "Creating unique marketing content and advertisements",
@@ -1227,7 +1227,7 @@
   },
   {
     "name": "SummarizeBot",
-    "url": "https://www.summarizebot.com/",
+    "url": "https://www.summarizebot.com/?utm_source=insidrai",
     "desc": "SummarizeBot is an AI and blockchain-powered tool that quickly summarizes various types of content such as documents, images, and audio files. It supports multiple languages and integrates with platforms like Facebook Messenger and Slack, allowing users to obtain summaries directly in their preferred apps.",
     "useCases": [
       "Summary Generation for quick understanding of long texts",
@@ -1256,7 +1256,7 @@
   },
   {
     "name": "Notta",
-    "url": "https://www.notta.ai/en/features/ai-summary",
+    "url": "https://www.notta.ai/en/features/ai-summary?utm_source=insidrai",
     "desc": "Notta AI is a powerful tool for summarizing and transcribing multimedia content, ideal for those needing to digest lengthy audio and video efficiently. It integrates transcriptions into summaries, highlighting key points and actionable steps.",
     "useCases": [
       "Generate concise summaries of audio and video content",
@@ -1285,7 +1285,7 @@
   },
   {
     "name": "TLDR This",
-    "url": "https://www.tldrthis.com/",
+    "url": "https://www.tldrthis.com/?utm_source=insidrai",
     "desc": "TLDR helps you summarize any piece of text into concise, easy to digest content. Free yourself from information overload.",
     "useCases": [
       "Automating information summarization for efficient reading and understanding",
@@ -1312,7 +1312,7 @@
   },
   {
     "name": "Closers Copy",
-    "url": "https://www.closerscopy.com/",
+    "url": "https://www.closerscopy.com/?utm_source=insidrai",
     "desc": "Boost Your Sales with SEO Optimized Blogs and Irresistible Marketing Copy. Leverage the secrets of the most powerful copy in the world ...and let your copywriting robot bring them to life!",
     "useCases": [
       "AI copywriting for marketing materials",
@@ -1343,7 +1343,7 @@
   },
   {
     "name": "Clara",
-    "url": "https://claralabs.com/",
+    "url": "https://claralabs.com/?utm_source=insidrai",
     "desc": "Clara is an AI assistant that manages your scheduling by handling email communication to arrange meetings, ensuring efficiency with natural language interaction and automated follow-ups.",
     "useCases": [
       "Automating meeting scheduling via email",
@@ -1371,7 +1371,7 @@
   },
   {
     "name": "Motion",
-    "url": "https://www.usemotion.com/lp-9",
+    "url": "https://www.usemotion.com/lp-9?utm_source=insidrai",
     "desc": "Motion is an AI-driven productivity tool that optimizes your schedule by automatically planning and prioritizing tasks and meetings, enhancing efficiency and reducing manual planning efforts.",
     "useCases": [
       "Automated daily planning for individuals and teams",
@@ -1408,7 +1408,7 @@
   },
   {
     "name": "Shutterstock AI Image Generator",
-    "url": "https://www.shutterstock.com/ai-image-generator/",
+    "url": "https://www.shutterstock.com/ai-image-generator/?utm_source=insidrai",
     "desc": "The Shutterstock AI Image Generator is a tool that creates images from textual descriptions using artificial intelligence technology. It allows users to input text prompts and generate visual content, making it useful for creating unique digital artwork and visual materials.",
     "useCases": [
       "Generate unique visual content from text descriptions for marketing materials.",
@@ -1435,7 +1435,7 @@
   },
   {
     "name": "Chatbit",
-    "url": "https://chatbit.co/",
+    "url": "https://chatbit.co/?utm_source=insidrai",
     "desc": "AI Chatbot for your website. Boost engagement, answer questions & capture leads. Trained and optimized on your data.",
     "useCases": [
       "Boost engagement on websites",
@@ -1461,7 +1461,7 @@
   },
   {
     "name": "veeroll",
-    "url": "https://veeroll.com/",
+    "url": "https://veeroll.com/?fpr=insidrai67",
     "desc": "Grow your business with AI social media videos. To be visible on social media, you need to create quality videos frequently. Veeroll is the easiest way to generate high quality social videos in minutes (without filming yourself).",
     "useCases": [
       "Generate high-quality social media videos quickly and efficiently.",
@@ -1490,7 +1490,7 @@
   },
   {
     "name": "DubVid",
-    "url": "https://www.dubvid.io/",
+    "url": "https://www.dubvid.io/?fpr=insidrai48",
     "desc": "Translate Videos in just 1-Click with AI. Break language barriers for your audience with up-to-date Translations, Voice Cloning, and Lip-Syncing.",
     "useCases": [
       "Translate educational videos to reach international students",
@@ -1522,7 +1522,7 @@
   },
   {
     "name": "AuraticAI",
-    "url": "https://auraticai.com/register",
+    "url": "https://auraticai.com/register?aff=ZEJMWEZKQEH2",
     "desc": "Unlock creativity and monetize your ideas with AuraticAI: the ultimate AI-powered platform designed for seamless content creation and revenue generation in just minutes.",
     "useCases": [
       "Content creation",
@@ -1543,7 +1543,7 @@
   },
   {
     "name": "Nichesss",
-    "url": "https://nichesss.com/",
+    "url": "https://nichesss.com/?utm_source=insidrai",
     "desc": "Nichesss is an AI copywriting software that speeds up content creation for blogs, ads, social media, and more, offering a wide range of tools for generating diverse types of content effortlessly.",
     "useCases": [
       "Generate blog posts and advertising content in seconds",
@@ -1569,7 +1569,7 @@
   },
   {
     "name": "Compose AI",
-    "url": "https://www.compose.ai/",
+    "url": "https://www.compose.ai/?utm_source=insidrai",
     "desc": "Compose AI is an AI-powered writing assistant that offers a Chrome plugin to significantly speed up writing by providing autocomplete suggestions across all tools, learning your writing style for personalized suggestions.",
     "useCases": [
       "Increasing writing efficiency for executives",
@@ -1593,7 +1593,7 @@
   },
   {
     "name": "Frase.io",
-    "url": "https://www.frase.io/",
+    "url": "https://www.frase.io/?via=insidrai",
     "desc": "Frase is an AI-powered SEO and content optimization tool that accelerates the creation of research-driven, SEO-optimized articles for content creators, streamlining their workflow from research to publication.",
     "useCases": [
       "Accelerating content creation for SEO-optimized articles",
@@ -1628,7 +1628,7 @@
   },
   {
     "name": "ContentBot.ai",
-    "url": "https://contentbot.ai/",
+    "url": "https://contentbot.ai/?fpr=insidrai",
     "desc": "ContentBot is an AI-powered tool designed to automate content creation processes for marketers, copywriters, and digital creators, enhancing their productivity and content quality.",
     "useCases": [
       "Automate digital marketing content creation",
@@ -1660,7 +1660,7 @@
   },
   {
     "name": "InVideo",
-    "url": "https://invideo.io/studio",
+    "url": "https://invideo.io/studio?irclickid=&mpid=3844535&irgwc=1",
     "desc": "InVideo is an AI video creation platform that transforms ideas into videos. Users can input topics to generate scripts, create scenes, add voiceovers, and fine-tune videos with simple text commands. It offers a user-friendly interface and a comprehensive video editor for complete editing control. InVideo serves over 7 million customers across 190 countries, emphasizing its vast reach and popularity in the video creation market.",
     "useCases": [
       "Increase brand exposure and awareness through video content strategy",
@@ -1689,7 +1689,7 @@
   },
   {
     "name": "Veed.io",
-    "url": "https://www.veed.io/tools/ai-video/text-to-video",
+    "url": "https://www.veed.io/tools/ai-video/text-to-video?utm_source=insidrai",
     "desc": "VEED's AI Text to Video tool transforms text into videos by leveraging AI for narration, utilizing stock footage and music. It's designed for quick and customizable video production, providing a user-friendly platform that simplifies the process of turning written content into engaging video summaries.",
     "useCases": [
       "Create marketing and social media videos",
@@ -1716,7 +1716,7 @@
   },
   {
     "name": "Kapwing",
-    "url": "https://www.kapwing.com/ai/text-to-video",
+    "url": "https://www.kapwing.com/ai/text-to-video?utm_source=insidrai",
     "desc": "Kapwing's Text to Video AI is an innovative platform that allows users to create videos from text using AI technology. It enables the transformation of documents, essays, scripts, and blog posts into short, engaging video summaries. Kapwing simplifies video creation by automating the process, including stock footage, background music, text overlays, subtitles, and transitions.",
     "useCases": [
       "Create training modules and explainer videos",
@@ -1749,7 +1749,7 @@
   },
   {
     "name": "Vmake’s AI Video Enhancer",
-    "url": "https://vmake.ai/video-enhancer",
+    "url": "https://vmake.ai/video-enhancer?utm_source=insidrai",
     "desc": "Vmake is an all-in-one e-commerce creative solutions platform, offering a suite of AI tools designed to enhance and streamline the creation of product images and videos. It caters to e-commerce businesses, enabling users to generate high-quality, visually appealing content directly in their browser, including AI fashion models, product photography, and video enhancements.",
     "useCases": [
       "Enhancing video quality for brand credibility",
@@ -1775,7 +1775,7 @@
   },
   {
     "name": "Filmora",
-    "url": "https://filmora.wondershare.com/",
+    "url": "https://filmora.wondershare.com/?utm_source=insidrai",
     "desc": "Wondershare Filmora is an easy-to-use video editing software that provides powerful tools and features to help users create stunning videos. It's designed for creators of all skill levels, offering a range of editing options from basic to advanced, including AI-powered features for enhancing video quality. Filmora supports a variety of formats and resolutions, making it a versatile choice for personal and professional projects alike.",
     "useCases": [
       "Video editing for marketing and promotional content.",
@@ -1801,7 +1801,7 @@
   },
   {
     "name": "Leena AI",
-    "url": "https://leena.ai/",
+    "url": "https://leena.ai/?utm_source=insidrai",
     "desc": "Leena AI is an advanced employee experience platform designed for enterprises, aiming to streamline IT, HR, Finance, and other functions through a Gen AI assistant. It offers solutions to reduce ticket volumes by promoting self-service, instantly resolve service requests, and automate repetitive tasks. The platform integrates with any knowledge base system, delivering contextual support tailored to employees' roles, teams, and access levels, thereby enhancing efficiency and employee satisfaction across various organizational processes.",
     "useCases": [
       "Reduce IT, HR, and Finance ticket volumes through self-service automation.",
@@ -1824,7 +1824,7 @@
   },
   {
     "name": "Zoho Recruit",
-    "url": "https://www.zoho.com/recruit/",
+    "url": "https://www.zoho.com/recruit/?utm_source=insidrai",
     "desc": "Zoho Recruit is a comprehensive talent acquisition software that combines an Applicant Tracking System (ATS) and a CRM to streamline the hiring process for both HR teams and recruitment agencies. It automates various stages of hiring, from sourcing to onboarding, providing tools for job posting, candidate tracking, and advanced analytics. Designed for efficiency and ease of use, Zoho Recruit supports scalable, customizable, and remote hiring practices, aiming to quickly match the right candidates to the right roles.",
     "useCases": [
       "Streamlining the recruitment process for internal HR teams",
@@ -1852,7 +1852,7 @@
   },
   {
     "name": "Leapsome AI",
-    "url": "https://www.leapsome.com/product/leapsome-ai",
+    "url": "https://www.leapsome.com/product/leapsome-ai?utm_source=insidrai",
     "desc": "Leapsome AI is a sophisticated tool designed to empower HR processes with artificial intelligence, enhancing people development, feedback culture, and data-driven action. It features AI-powered surveys for actionable insights, goal setting, performance reviews, and feedback summaries, alongside competency frameworks to visualize career growth efficiently. Aimed at optimizing HR tasks, it promises to transform manual processes into automated, insightful, and impactful strategies, thereby building high-performing and resilient organizations.",
     "useCases": [
       "Empowering HR processes with AI",
@@ -1882,7 +1882,7 @@
   },
   {
     "name": "Workable",
-    "url": "https://www.workable.com/",
+    "url": "https://www.workable.com/?utm_source=insidrai",
     "desc": "Workable is a leading recruiting software and hiring platform that helps businesses find, hire, onboard, and manage the right candidates efficiently. It integrates with numerous apps and tools, provides fast global support, ensures trusted security, and offers a mobile hiring app. Workable also offers expert advice and assisted onboarding for a streamlined recruitment process, emphasizing a quick and modern candidate experience.",
     "useCases": [
       "Recruitment and candidate sourcing",
@@ -1913,7 +1913,7 @@
   },
   {
     "name": "Quinyx",
-    "url": "https://www.quinyx.com/",
+    "url": "https://www.quinyx.com/?utm_source=insidrai",
     "desc": "Quinyx is an AI-powered Workforce Management, Planning, and Scheduling platform that optimizes business operations. It offers solutions for time management, demand forecasting, labor optimization, and employee engagement, aimed at enhancing service, compliance, budget adherence, and workforce productivity. Its intuitive interface facilitates scheduling, absence management, and payroll, while engaging employees through multi-communication apps, tasks, surveys, and rewards.",
     "useCases": [
       "Workforce Management",
@@ -1941,7 +1941,7 @@
   },
   {
     "name": "Juicebox",
-    "url": "https://juicebox.ai/",
+    "url": "https://juicebox.ai/?utm_source=insidrai",
     "desc": "Juicebox is an AI-powered search tool designed for recruiting, customer discovery, research, and more. It introduces PeopleGPT 2.0, enabling users to find qualified talent using natural language descriptions, without the need for Boolean searches. The platform offers real-time analysis of professional profiles and other data sources, simplifying talent discovery and engagement with personalized outreach.",
     "useCases": [
       "Talent sourcing for recruitment",
@@ -1970,7 +1970,7 @@
   },
   {
     "name": "Glean",
-    "url": "https://www.glean.com/",
+    "url": "https://www.glean.com/?utm_source=insidrai",
     "desc": "Glean is an advanced AI-powered workplace search and knowledge discovery tool. It enhances productivity by utilizing deep learning-based vector search for natural language queries, training on company-specific language for improved search relevance. Glean also features a generative AI assistant for comprehensive answers, analyses, and summaries. It personalizes results by building a knowledge graph of people, content, and interactions. Glean simplifies use with over 100 connectors and easy setup, and it's trusted by leading global enterprises for its effectiveness in saving time and aiding in faster information retrieval.",
     "useCases": [
       "Knowledge management and enterprise search",
@@ -2004,7 +2004,7 @@
   },
   {
     "name": "Glider AI",
-    "url": "https://glider.ai/",
+    "url": "https://glider.ai/?utm_source=insidrai",
     "desc": "Glider AI is a Skill Intelligence Platform™ designed to validate skills, confirm job fit, and streamline hiring across various roles and industries. It utilizes AI-driven solutions, including AI-screening, AI-proctoring, skill assessments, and virtual interviews, to ensure competency over credentials. The platform aims to enhance hiring quality, reduce time to fill positions, and improve candidate satisfaction and diversity hiring.",
     "useCases": [
       "Validate skills for competency-based hiring across various roles and industries.",
@@ -2029,7 +2029,7 @@
   },
   {
     "name": "Streetbeat",
-    "url": "https://streetbeat.com/en",
+    "url": "https://streetbeat.com/en?irclickid=&irgwc=1",
     "desc": "Streetbeat is at the forefront of financial technology innovation, offering personalized investment solutions through its AI-powered financial advisor. Streetbeat aims to make investing accessible to all, revolutionizing how individuals manage their financial futures. The app’s interface allows you to ask questions and tap into hundreds of data sources, in an easy conversational way, like talking to a financial advisor. Whether you want to create your own customized portfolio, or invest in a popular curated portfolio, Streetbeat caters to your unique investment goals. Streetbeat membership is a month-to-month or yearly subscription that starts at sign up: Annual: $15 /month - $179 billed annually. Monthly: $25 per month.",
     "useCases": [
       "Automate and simplify investment tasks for businesses",
@@ -2053,7 +2053,7 @@
   },
   {
     "name": "Camp",
-    "url": "https://camp.lemonsqueezy.com/",
+    "url": "https://camp.lemonsqueezy.com/?aff=1W4VR",
     "desc": "Camp is a specialized platform dedicated to enhancing SEO performance through the creation of high-performing SEO blog content. It stands out by leveraging multi LLM solutions and models trained on SEO-ranked data for each stage of blog generation. Camp offers a personalized approach, allowing businesses to craft SEO-rich, custom-tailored content that resonates with their audience. With a focus on quality and consistency, Camp enables the creation of unlimited, engaging blogs to boost organic traffic and expand online presence.",
     "useCases": [
       "Enhancing SEO performance through AI-generated content",
@@ -2157,7 +2157,7 @@
   },
   {
     "name": "GPT Finder",
-    "url": "https://chatgpt.com/g/g-RuhDS8mbd-22-500-best-custom-gpts",
+    "url": "https://chatgpt.com/g/g-RuhDS8mbd-22-500-best-custom-gpts?utm_source=insidrai",
     "desc": "Search all public GPTs in one place. Find the best Custom ChatGPTs tailored to your needs. Every day, hundreds of new popular GPTs join our ranks. Discover GPT Store's best.",
     "useCases": [
       "Finding custom AI solutions tailored to specific business needs",
@@ -2204,7 +2204,7 @@
   },
   {
     "name": "Julius AI",
-    "url": "https://julius.ai/",
+    "url": "https://julius.ai/?via=lasse",
     "desc": "Meet Julius AI – your versatile AI data analyst. Analyze any structured data effortlessly, ask questions for instant answers, and create sleek visualizations. From advanced features like modeling and projections to quick data exports, Julius AI simplifies the complex, unlocking insights with ease.",
     "useCases": [
       "Create data visualizations",
@@ -2227,7 +2227,7 @@
   },
   {
     "name": "Storyboard Hero",
-    "url": "https://storyboardhero.ai/",
+    "url": "https://storyboardhero.ai/?via=lasse",
     "desc": "Storyboard Hero transforms your creative process with AI, making video concept and storyboard creation effortless. Quickly organize ideas, get AI or hand-drawn visuals, and export branded PDFs. Perfect for video agencies, it's the game-changer you've been waiting for.",
     "useCases": [
       "Generate video concepts and storyboards quickly and cost-effectively",
@@ -2260,7 +2260,7 @@
   },
   {
     "name": "Carboncopy",
-    "url": "https://carboncopy.pro/",
+    "url": "https://carboncopy.pro/?ref=insidrai",
     "desc": "CarbonCopy.pro: Elevate your content creation with AI. Craft ad copy, product descriptions, images, audio, and more effortlessly. Unleash the power of over 50 templates to save time and enhance your writing across various tasks.",
     "useCases": [
       "Creating ad copy",
@@ -2295,7 +2295,7 @@
   },
   {
     "name": "Quickads",
-    "url": "https://www.quickads.ai/",
+    "url": "https://www.quickads.ai/?ref=insidrai",
     "desc": "Quickads.ai: Effortless Ads in 30 seconds! Create high-performance, on-brand social media posts & ads for all platforms and campaigns. AI-Ad Generator for 99% of ad formats needed. Studio-quality AI Product Photography and AI Ad Copy Generator. Connect with your audience in 35 languages.",
     "useCases": [
       "Create high-performance ads and social media posts quickly",
@@ -2325,7 +2325,7 @@
   },
   {
     "name": "Echofox",
-    "url": "https://echofox.io/",
+    "url": "https://echofox.io/?via=lasse",
     "desc": "24/7 AI sales robot: Converts visitors to buyers in 2 mins, no hiring needed. Resolves 70% of customer questions instantly. Trustworthy, customizable, and seamlessly integrates AI and humans for effective customer support.",
     "useCases": [
       "Automating customer support",
@@ -2346,7 +2346,7 @@
   },
   {
     "name": "Heygen",
-    "url": "https://heygen.com/",
+    "url": "https://heygen.com/?sid=rewardful&via=lasse",
     "desc": "HeyGen turns text into polished videos with AI avatars and voices. Create an avatar copy of yourself. Perfect for startups to enterprises. Craft engaging product content effortlessly. Try free for supercharged content creation, personalized outreach at scale, and no need for cameras or crews.",
     "useCases": [
       "Sales outreach that converts",
@@ -2394,7 +2394,7 @@
   },
   {
     "name": "AdCopy",
-    "url": "https://adcopy.ai/",
+    "url": "https://adcopy.ai/?ref=ywvimwq",
     "desc": "Elevate Your Marketing with AI: Boost Sales, Ads, and Creativity. Generate persuasive, multilingual ad creatives and compliant copy. Drive clicks and conversions effortlessly. Trusted by top marketers, AdCopy delivers exceptional results. Unleash AI's creative power with customization options.",
     "useCases": [
       "Create and optimize ad copy for improved click-through rates",
@@ -2426,7 +2426,7 @@
   },
   {
     "name": "Coconaut",
-    "url": "https://coconaut.ai/",
+    "url": "https://coconaut.ai/?via=lasse",
     "desc": "Build a Chatbot Similar to ChatGPT Using Your Own Data. Coconaut simplifies the process of creating a chatbot in just a matter of minutes. Simply provide our AI with your website, documents, or knowledge base, and it will generate a chatbot that mimics your communication style.",
     "useCases": [
       "Optimize customer engagement through AI-powered chatbots.",
@@ -2450,7 +2450,7 @@
   },
   {
     "name": "PaceAI",
-    "url": "https://paceai.co/",
+    "url": "https://paceai.co/?via=xyqcwvc16wbchai810iz",
     "desc": "Generate and deliver technical documentation and ideas in seconds instead of days with the power of AI.",
     "useCases": [
       "Generate and analyze technical documentation",
@@ -2481,7 +2481,7 @@
   },
   {
     "name": "Originality.ai",
-    "url": "https://originality.ai/",
+    "url": "https://originality.ai/?lmref=6jMSBA",
     "desc": "Originality.ai is a high-accuracy tool designed to swiftly detect AI-generated text, ensuring content authenticity. It offers real-time detection, a Google Chrome extension for on-the-go analysis, and multilingual support, making it versatile for businesses. Key features include AI detection, shareable reports, collaboration, and readability assessments.",
     "useCases": [
       "Plagiarism detection for content verification",
@@ -2512,7 +2512,7 @@
   },
   {
     "name": "Winston AI",
-    "url": "https://gowinston.ai/",
+    "url": "https://gowinston.ai/?via=lasse",
     "desc": "Winston AI boasts a remarkable 99.6% accuracy in distinguishing human and AI-generated content. Its advanced algorithms categorize text, offering in-depth plagiarism detection and readability analysis. Supporting various file types, including OCR, it provides free and paid. Key features include OCR, multilingual support, and detailed sentence-level analysis.",
     "useCases": [
       "Detection of AI-generated content for academic integrity",
@@ -2546,7 +2546,7 @@
   },
   {
     "name": "Otter AI",
-    "url": "https://otter.ai/",
+    "url": "https://otter.ai/?utm_term=1113693&utm_medium=tracking_link&utm_source=affiliate&utm_content=LasseL&irclickid=&irgwc=1",
     "desc": "Capture and share insights from your meetings. Otter records meetings, take notes in real-time, and generates an automated summary to share with everyone and to help you remember everything.",
     "useCases": [
       "Automated meeting notes and summaries for business productivity",
@@ -2577,7 +2577,7 @@
   },
   {
     "name": "Blaze.ai",
-    "url": "https://www.blaze.ai/",
+    "url": "https://www.blaze.ai/?fpr=4kgsj",
     "desc": "Craft blog posts, social media updates, ad copy, and marketing plans that resonate with your unique brand identity. Tailor-made for solo professionals, this AI tool covers all your content needs: Social Ads, Search Ads, Instagram Posts, Press Releases, Tweet Ideas, TikTok Scripts, Blog Posts, Newsletters, Landing Pages, and Email Sequences.",
     "useCases": [
       "Content creation for blog posts, social media, and ad copy",
@@ -2612,7 +2612,7 @@
   },
   {
     "name": "Kua",
-    "url": "https://app.kua.ai/",
+    "url": "https://app.kua.ai/?aff=insidrai",
     "desc": "AI ecommerce platform for all marketing activities. The all-in-one platform for all content purposes, like ecommerce listing, amazon listings, website copy optimization, image generation, and anything marketing and content vise for your business.",
     "useCases": [
       "Ecommerce content creation",
@@ -2636,7 +2636,7 @@
   },
   {
     "name": "Must AI",
-    "url": "https://must-ai-generator.com/register",
+    "url": "https://must-ai-generator.com/register?aff=LKWD14DPYMO9",
     "desc": "All-in-one platform to generate AI content and start making money in minutes. AI copilot for copywriting and content generation, AI image generator, code generator, text to speech, chatbot and more.",
     "useCases": [
       "AI content generation",
@@ -2661,7 +2661,7 @@
   },
   {
     "name": "ViralKit",
-    "url": "https://viralkit.com/",
+    "url": "https://viralkit.com/?via=pnutmqxn",
     "desc": "Viralkit.io is a versatile AI tool that empowers marketers and content creators. It streamlines social media strategies by providing data-driven insights, content recommendations, and audience engagement tips. Leveraging AI, it helps businesses and individuals boost their online presence, create viral content, and drive impactful results across various social media platforms.",
     "useCases": [
       "Increase brand awareness through social media contests and giveaways",
@@ -2693,7 +2693,7 @@
   },
   {
     "name": "Socialcoffee",
-    "url": "https://socialcoffee.ai/",
+    "url": "https://socialcoffee.ai/?ref=L6WSS59LIIVSLBF",
     "desc": "SocialCoffee.ai is a dynamic AI tool that optimizes social media marketing efforts. It provides data-driven insights and recommendations to improve content strategy and audience engagement. By harnessing AI, it empowers businesses and marketers to enhance their online presence, drive engagement, and achieve more impactful results across various social platforms.",
     "useCases": [
       "Content Generation",
@@ -2752,7 +2752,7 @@
   },
   {
     "name": "Smudge.ai",
-    "url": "https://smudge.ai/",
+    "url": "https://smudge.ai/?coupon=INSIDR40",
     "desc": "Smudge.ai is a dynamic AI extension designed to boost creative content generation. This innovative tool integrates seamlessly with various applications, enhancing the creative process by suggesting content ideas, improving writing, and providing insightful recommendations. Smudge.ai empowers users with AI-driven assistance to elevate their content and streamline their workflows.",
     "useCases": [
       "Create and edit engaging content",
@@ -2780,7 +2780,7 @@
   },
   {
     "name": "Ssemble",
-    "url": "https://www.ssemble.com/",
+    "url": "https://www.ssemble.com/?via=lasse",
     "desc": "Ssemble is a powerful AI tool that streamlines content creation and management. With its user-friendly interface, it enables users to collaborate on, organize, and publish content effortlessly. Ssemble's smart automation and intuitive features make it an ideal platform for teams looking to enhance their content production and distribution processes.",
     "useCases": [
       "Enhancing content production and distribution processes",
@@ -2806,7 +2806,7 @@
   },
   {
     "name": "Coachvox",
-    "url": "https://coachvox.ai/",
+    "url": "https://coachvox.ai/?via=528b3b",
     "desc": "Create an AI version of yourself to generate leads and engage with your audience. Clone yourself with AI trained on your content and style. Coach and mentor your audience, add value to your clients and empower your team.",
     "useCases": [
       "Generate leads",
@@ -2833,7 +2833,7 @@
   },
   {
     "name": "Fireflies",
-    "url": "https://fireflies.ai/",
+    "url": "https://fireflies.ai/?fpr=insidrai",
     "desc": "Streamline your meeting note-taking with Fireflies.ai. This powerful tool automatically records and transcribes meetings across various platforms, including Google Meet, Zoom, Teams, and more. Its AI-Powered Search lets you find key insights in seconds, while collaboration features like comments and reactions enhance teamwork. Analyze meetings for improved performance and productivity effortlessly.",
     "useCases": [
       "Automatic meeting transcription and summarization",
@@ -2863,7 +2863,7 @@
   },
   {
     "name": "Smili Media",
-    "url": "https://www.smilimedia.com/",
+    "url": "https://www.smilimedia.com/?via=lasse",
     "desc": "Boost your content's reach with AI-Powered Clip Creation! Transform lengthy videos into 10 viral clips at lightning speed. Our AI curates the most engaging moments, extracting highlights and crafting captivating clips. Thousands of users rely on our openAI-driven platform for viral content. Elevate your video strategy and captivate your audience 10x faster.",
     "useCases": [
       "Transforming long videos into short, engaging clips for social media",
@@ -2888,7 +2888,7 @@
   },
   {
     "name": "Gajix",
-    "url": "https://gajix.com/",
+    "url": "https://gajix.com/?via=lasse",
     "desc": "Discover the Future of Learning with GAJIX AI Learning Assistant. Unlock instant insights on any subject or webpage using advanced AI algorithms. Gain comprehensive knowledge with topic and subtopic loading. Deepen your understanding through thought-provoking questions. Apply newfound knowledge for career growth. Revolutionize your learning experience with GAJIX.",
     "useCases": [
       "Accelerate employee training and development",
@@ -2920,7 +2920,7 @@
   },
   {
     "name": "Plus AI",
-    "url": "https://www.plusdocs.com/",
+    "url": "https://www.plusdocs.com/?utm_source=insidrai",
     "desc": "Elevate your presentations with Plus AI, the ultimate AI presentation tool for Google Slides. Craft custom presentations effortlessly, eliminate tedious tasks, and fine-tune your content with AI editing. No more starting from scratch. Install the Google Slides add-on and let AI enhance your slides where you work.",
     "useCases": [
       "Create professional presentations quickly and efficiently.",
@@ -2949,7 +2949,7 @@
   },
   {
     "name": "Coursebox",
-    "url": "https://www.coursebox.ai/",
+    "url": "https://www.coursebox.ai/?ref=p9m0ro1y",
     "desc": "The AI Course Creator. Design and build courses effortlessly. In just one hour, generate a course structure, convert documents and videos, engage learners with quizzes, and create a polished course. Customize, publish privately or publicly, sell, or export to your LMS. Course creation made lightning-fast and hassle-free.",
     "useCases": [
       "Automate course authoring and training processes",
@@ -2985,7 +2985,7 @@
   },
   {
     "name": "Slides AI",
-    "url": "https://www.slidesai.io/",
+    "url": "https://www.slidesai.io/?via=insidrai",
     "desc": "Craft Engaging Presentation Slides Rapidly with AI. Bid farewell to laborious, manual slide creation. Harness the power of AI to effortlessly generate professional, captivating slides from your text within seconds.",
     "useCases": [
       "Create professional presentation slides quickly and easily",
@@ -3019,7 +3019,7 @@
   },
   {
     "name": "Decktopus",
-    "url": "https://www.decktopus.com/",
+    "url": "https://www.decktopus.com/?via=lasse",
     "desc": "Decktopus: Your All-in-One Presentation Enhancement Toolkit. Decktopus Image & Icon Finder simplifies the process. Let Decktopus craft tailored slide notes, and never worry about words again. Get more slide content effortlessly, collect real-time feedback with Forms, and add a personal touch with Voice Recorder. Elevate your brand with Custom Domain, automate with Webhook integration, and enrich your presentations with multimedia elements. With Deckto, updating your content is a breeze, no link changes required.",
     "useCases": [
       "Generate professional presentations quickly and efficiently",
@@ -3056,7 +3056,7 @@
   },
   {
     "name": "Lovo AI",
-    "url": "https://lovo.ai/",
+    "url": "https://lovo.ai/?lmref=tN1khQ",
     "desc": "LOVO AI: A cutting-edge AI Voice Generator that offers hyper-realistic, captivating text-to-speech and voice cloning capabilities. With 500+ voices available in over 100 languages, it empowers you to create engaging videos for diverse applications, including marketing, educational content, gaming, and beyond.",
     "useCases": [
       "Corporate Training & Education",
@@ -3083,7 +3083,7 @@
   },
   {
     "name": "Flick social",
-    "url": "https://www.flick.social/",
+    "url": "https://www.flick.social/?fpr=lasse73",
     "desc": "The modern social marketing platform for busy business owners, marketers, and creators. Managing and growing your Socials just got easier.",
     "useCases": [
       "Social media marketing",
@@ -3114,7 +3114,7 @@
   },
   {
     "name": "Ikiblast",
-    "url": "https://www.ikiblast.com/",
+    "url": "https://www.ikiblast.com/?via=lasse",
     "desc": "IKiBlast represents a holistic AI solution, aiming to streamline various facets of your professional endeavors, personal affairs, and everyday routines. This versatile AI platform introduces dedicated AI assistants, each excelling in their specific domain, to provide pertinent information through seamless and natural interactions. It offers a well-rounded remedy, facilitating individuals and enterprises in leveraging AI's potential with an easy, user-friendly approach, allowing you to concentrate on your top priorities, be it family, peers, or clientele.",
     "useCases": [
       "Scale business operations",
@@ -3154,7 +3154,7 @@
   },
   {
     "name": "Grammarly",
-    "url": "https://www.grammarly.com/",
+    "url": "https://www.grammarly.com/?transaction_id=102ab9e5c772a96c8ca573db5e68f0&affiliateNetwork=ho&affiliateID=112871",
     "desc": "Write confidently with Grammarly's new AI-powered application. Go beyond grammer and spelling to style and tone with auto suggestions. Works with emails, documents, social media and almost everything.",
     "useCases": [
       "Enhancing written communication quality in business correspondence",
@@ -3188,7 +3188,7 @@
   },
   {
     "name": "Murf",
-    "url": "https://murf.ai/",
+    "url": "https://murf.ai/?lmref=1Qg3NQ",
     "desc": "Transform text into speech using a versatile AI voice generator. Leverage AI-powered, authentic human-like voices to effortlessly create high-quality voiceovers within minutes. Utilize Murf's realistic AI voices for podcasts, videos, and professional presentations.",
     "useCases": [
       "eLearning and Explainer Videos",
@@ -3216,8 +3216,31 @@
     "funcArea": "Marketing"
   },
   {
+    "name": "Superluminal",
+    "url": "Link Missing",
+    "desc": "Elevate your data dashboard with Superluminal's AI API. Offer frictionless, conversational data interactions to delight your customers. Superluminal seamlessly integrates AI for Python code generation, graph creation, filtering, and more, enhancing your data dashboard's capabilities.",
+    "useCases": [
+      "Enhancing data visualization capabilities",
+      "Enabling conversational data interactions",
+      "Automating Python code generation for data processes",
+      "Improving data filtering and analysis",
+      "Streamlining dashboard functionality for better user experience"
+    ],
+    "keyFeatures": [
+      "Frictionless, conversational data interactions",
+      "AI integration for Python code generation",
+      "Graph creation capabilities",
+      "Data filtering functionalities",
+      "Enhanced data dashboard capabilities"
+    ],
+    "pricingModel": [
+      "Pricing model cannot be determined."
+    ],
+    "funcArea": "Product Management"
+  },
+  {
     "name": "Elai.io",
-    "url": "https://elai.io/",
+    "url": "https://elai.io/?via=lasse",
     "desc": "Generate AI videos effortlessly from text with Elai. Craft personalized video content with a virtual presenter in minutes, no need for a camera, studio, or green screen. Scale up your video production effortlessly. Utilize a smartphone or webcam to swiftly generate an animated video avatar of yourself. Tailored for storytellers, Elai can compose presentations, outlines, or narratives for you, complete with text, images, and videos.",
     "useCases": [
       "Employee training videos",
@@ -3250,7 +3273,7 @@
   },
   {
     "name": "EnterpriseDNA",
-    "url": "https://enterprisedna.co/",
+    "url": "https://enterprisedna.co/?rfsn=7575046.9fa4cf8",
     "desc": "Learn how to use AI. Future-Proof Your Career Master Data Skills Upskill in AI. Join 220,000+ learning the latest data and AI skills. Learn Faster with proven, personalized training pathways. Build Experience with live data exercises & challenges.",
     "useCases": [
       "Upskilling employees in data skills and AI technologies",
@@ -3277,7 +3300,7 @@
   },
   {
     "name": "GoZen",
-    "url": "https://gozen.io/",
+    "url": "https://gozen.io/?lmref=H-yRRw",
     "desc": "With an organic growth platform, 10X your sales and revenue. Powerful AI By cultivating an audience, automating engagement and sales, and providing SEO-friendly content, you can grow your business without using advertisements.",
     "useCases": [
       "Creating SEO-friendly content to enhance online visibility",
@@ -3305,7 +3328,7 @@
   },
   {
     "name": "Stack",
-    "url": "https://www.stack-ai.com/",
+    "url": "https://www.stack-ai.com/?via=lasse",
     "desc": "Build and deploy AI applications in a matter of minutes with Stack AI, the fastest and most reliable solution for integrating custom Large Language Models (LLMs) like ChatGPT into your product or team. With Stack AI, a no-code tool, you can effortlessly design, test, and deploy AI workflows using models such as ChatGPT, unlocking the power of AI for any business use case.",
     "useCases": [
       "Augment workforce with AI Assistants",
@@ -3337,7 +3360,7 @@
   },
   {
     "name": "Botpress",
-    "url": "https://botpress.com/",
+    "url": "https://botpress.com/?pscd=try.botpress.com&ps_partner_key=bGFzc2VsaW5uZXMxMzc2&ps_xid=SaZ8EMXs54ifAb&gsxid=SaZ8EMXs54ifAb&gspk=bGFzc2VsaW5uZXMxMzc2",
     "desc": "Create AI chat bots rapidly with ease using the first-ever next-generation chatbot builder, powered by OpenAI. Whether for your project or business, this builder allows you to construct ChatGPT-like bots that efficiently accomplish tasks. Simply provide a URL or document, and let generative AI handle the initial setup. Alternatively, choose from a wide selection of fully customizable templates, with over 100 options available.",
     "useCases": [
       "Automate complex conversations and workflows at an enterprise scale",
@@ -3366,7 +3389,7 @@
   },
   {
     "name": "Chatbase",
-    "url": "https://www.chatbase.co/",
+    "url": "https://www.chatbase.co/?via=lasse",
     "desc": "Tailored ChatGPT for your content and data. Easily link your data sources to create a chatbot akin to ChatGPT, designed for your specific data. Afterwards, integrate it as a widget on your website or engage with it via our integrations or API.",
     "useCases": [
       "Customer Support",
@@ -3398,7 +3421,7 @@
   },
   {
     "name": "Dante AI",
-    "url": "https://dante-ai.com/",
+    "url": "https://dante-ai.com/?via=insidrai",
     "desc": "Personalized AI chatbots, trained using your data, without any coding required. Easily deploy on your website within minutes. Develop a GPT-4 chatbot swiftly, with the ability to train the AI, customize responses, and seamlessly integrate it onto your website.",
     "useCases": [
       "Creating personalized AI chatbots for customer engagement",
@@ -3422,7 +3445,7 @@
   },
   {
     "name": "Jasper.ai",
-    "url": "https://www.jasper.ai/",
+    "url": "https://www.jasper.ai/?utm_source=partner&fpr=insidrai",
     "desc": "Create amazing blog posts, art & images, marketing copy, sales emails, SEO content, Facebook ads, web content, captions, video scripts, 10X faster with AI. Jasper is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.",
     "useCases": [
       "Integrated Marketing Campaigns",
@@ -3447,7 +3470,7 @@
   },
   {
     "name": "Writesonic",
-    "url": "https://writesonic.com/",
+    "url": "https://writesonic.com/?via=lasse59",
     "desc": "WriteSonic.com is a cutting-edge writing assistance tool that uses advanced AI technology to help you write better, faster, and more efficiently. With features like automatic paraphrasing, tone analysis, and real-time suggestions, WriteSonic.com takes your writing to the next level.",
     "useCases": [
       "Content Creation for Marketing and Communication",
@@ -3626,6 +3649,109 @@
     "funcArea": "Sales"
   },
   {
+    "name": "BingChat",
+    "url": "Link Missing",
+    "desc": "Bing Chat, powered by OpenAI's advanced machine learning and language ai model system GPT-4, boasts a range of features that set it apart. Notably, Bing AI Chatbot has access to the internet, enabling it to function as a search engine, providing information on current events. The chatbot offers this functionality for free, making it easily accessible to all users.",
+    "useCases": [
+      "Enhancing customer service through real-time responses.",
+      "Providing up-to-date information on current events for decision making.",
+      "Facilitating information retrieval and research for executives."
+    ],
+    "keyFeatures": [
+      "Powered by OpenAI's advanced GPT-4 language AI model",
+      "Access to the internet for real-time information",
+      "Functions as a search engine for current events",
+      "Offers the service for free, enhancing accessibility"
+    ],
+    "pricingModel": [
+      "Free access to Bing Chat with AI chatbot features and internet search capabilities."
+    ],
+    "funcArea": "Customer Success"
+  },
+  {
+    "name": "Google Bard",
+    "url": "Link Missing",
+    "desc": "Google has been actively engaged in the AI race for a significant period, having implemented a range of AI features across its product portfolio. Following an initial product demonstration setback, Bard, powered by the PaLM 2 model, has emerged from the shadow of LaMDA to execute user instructions effectively.",
+    "useCases": [
+      "Execution of user instructions",
+      "Integration of AI features in product portfolio",
+      "Enhancement of operational efficiency through AI tools"
+    ],
+    "keyFeatures": [
+      "Effectively executes user instructions",
+      "Powered by the PaLM 2 model",
+      "Part of a comprehensive range of AI features in Google's product portfolio"
+    ],
+    "pricingModel": [
+      "Pricing model cannot be determined."
+    ],
+    "funcArea": "Operations"
+  },
+  {
+    "name": "Wolfram",
+    "url": "Link Missing",
+    "desc": "By integrating Wolfram, ChatGPT gains access to real-time data, improved mathematical abilities, and a meticulously curated dataset that is largely verified. This integration helps address issues like AI hallucination, inaccurate responses, and mathematical miscalculations, making ChatGPT notably smarter.",
+    "useCases": [
+      "Enhancing decision-making with real-time data access",
+      "Improving accuracy of responses in AI applications",
+      "Utilizing advanced mathematical capabilities for analytics",
+      "Reducing errors in data-driven insights",
+      "Optimizing AI performance for executive reporting"
+    ],
+    "keyFeatures": [
+      "Access to real-time data through Wolfram integration.",
+      "Enhanced mathematical abilities compared to previous versions.",
+      "Utilizes a meticulously curated and largely verified dataset.",
+      "Reduces AI hallucination and inaccurate responses.",
+      "Minimizes mathematical miscalculations for improved reliability."
+    ],
+    "pricingModel": [
+      "Pricing model cannot be determined."
+    ],
+    "funcArea": "General Management"
+  },
+  {
+    "name": "ChatwithPDF",
+    "url": "Link Missing",
+    "desc": "The Video Insights plugin is a powerful tool for real time data from videos like a youtube video hosted on platforms like YouTube. Just provide the video link and the code interpreter will transcribe the videos. Whether you need video summaries, specific answers to questions, or complete transcripts, Video Insights has got you covered.",
+    "useCases": [
+      "Real-time transcription of videos for documentation and accessibility",
+      "Generating video summaries to quickly convey information to stakeholders",
+      "Providing specific answers to questions related to video content for informed decision-making",
+      "Creating complete transcripts for archiving and reference purposes"
+    ],
+    "keyFeatures": [
+      "Real-time data extraction from videos",
+      "Transcription of videos using a simple link",
+      "Capability to generate video summaries",
+      "Provides specific answers to questions based on video content",
+      "Offers complete transcripts of videos"
+    ],
+    "pricingModel": [
+      "Pricing model cannot be determined."
+    ],
+    "funcArea": "Operations"
+  },
+  {
+    "name": "SceneXplain",
+    "url": "Link Missing",
+    "desc": "Have you ever needed a detailed description of an image? SceneXplain is the plugin for you. By providing an image URL, ChatGPT can generate a detailed description of the image, even for complex scenes with multiple objects and people.",
+    "useCases": [
+      "Generating detailed descriptions of images for marketing materials or presentations",
+      "Enhancing accessibility by providing image descriptions for visually impaired individuals",
+      "Automating content generation for social media posts",
+      "Assisting in content creation for e-commerce websites by describing products visually"
+    ],
+    "keyFeatures": [
+      "Generates detailed descriptions of images from URLs.",
+      "Handles complex scenes with multiple objects and people."
+    ],
+    "pricingModel": [
+      "Pricing model cannot be determined."
+    ],
+    "funcArea": "Design"
+  },
+  {
     "name": "tl;dv",
     "url": "https://tldv.cello.so/MSpiPB5E2Kj",
     "desc": "Powered by GPT. The AI meeting assistant take your meeting notes for you. You just focus on the meeting. The meeting recorder that transcribes & summarizes your calls with customers, prospects, and your team. Full overview, notes, and bite-sized videoclips from the meetings, all integrated with your favorite apps.",
@@ -3649,7 +3775,7 @@
   },
   {
     "name": "My AskAI",
-    "url": "https://myaskai.com/",
+    "url": "https://myaskai.com/?via=kjujkr69d6jhbyu9kg3n",
     "desc": "Create your own ChatGPT and add it to your website by adding your content. Spend less time looking and get quick answers from all of your material.",
     "useCases": [
       "Reduce customer support costs for B2B SaaS companies",
@@ -3707,6 +3833,29 @@
     "funcArea": "Operations"
   },
   {
+    "name": "Airgram",
+    "url": "Link Missing",
+    "desc": "Airgram assists with meeting recording, transcription, summarization, and sharing so that you may concentrate on your meetings rather than taking notes. Make the most of your encounters with internal stakeholders and clients.",
+    "useCases": [
+      "Meeting recording",
+      "Transcription of meetings",
+      "Summarization of meeting notes",
+      "Sharing meeting outcomes",
+      "Enhancing focus during meetings",
+      "Improving collaboration with internal stakeholders and clients"
+    ],
+    "keyFeatures": [
+      "Meeting recording capabilities to capture discussions.",
+      "Transcription services to convert speech into written text.",
+      "Summarization of meeting content for quick understanding.",
+      "Easy sharing options for distributing meeting notes and insights."
+    ],
+    "pricingModel": [
+      "Pricing model cannot be determined."
+    ],
+    "funcArea": "Customer Success"
+  },
+  {
     "name": "Flowpoint",
     "url": "https://flowpoint.ai/partners/insidr/1/",
     "desc": "Analytics are challenging; flowpoint.ai makes it simple. Utilize AI to improve conversions, give priority to useful solutions, and increase ROI through data-driven choices. Find practical tips to maximize the potential of your website. Use AI for Cross-domain funnel analytics, AI-powered recommendations, capturing user events and optimizing conversion rates.",
@@ -3741,8 +3890,28 @@
     "funcArea": "Marketing"
   },
   {
+    "name": "Luna",
+    "url": "Link Missing",
+    "desc": "Personalize Cold Emails Instantly with Luna. Automated messages are dead these days. Get more replies on your cold emails with Luna - World's first software application that uses AI to suggest new high-quality leads every day and send them the personal emails they deserve.",
+    "useCases": [
+      "Personalizing cold email outreach to improve response rates",
+      "Automating lead generation and management",
+      "Enhancing email marketing strategies with AI suggestions"
+    ],
+    "keyFeatures": [
+      "Suggests new high-quality leads daily using AI",
+      "Personalizes cold emails to increase response rates",
+      "Automates the process of sending personalized messages",
+      "Designed to improve engagement in cold email campaigns"
+    ],
+    "pricingModel": [
+      "Pricing model cannot be determined."
+    ],
+    "funcArea": "Marketing"
+  },
+  {
     "name": "Tiledesk",
-    "url": "https://tiledesk.com/",
+    "url": "https://tiledesk.com/?via=lasse",
     "desc": "The all-in-one customer engagement platform. From lead-gen to post-sales, from WhatsApp to your website. With omni-channel live chat and chatbot.",
     "useCases": [
       "Automate customer service using AI Agents",
@@ -3782,7 +3951,7 @@
   },
   {
     "name": "Nureply",
-    "url": "https://nureply.com/",
+    "url": "https://nureply.com/?ref=insidrai",
     "desc": "The AI-based cold email program Nureply revolutionizes email marketing with cutting-edge features that reduce time-consuming tasks and boost response rates. easily distributing highly tailored and effective cold emails. Utilize the cutting-edge AI technology of Nureply to experience the future of email marketing.",
     "useCases": [
       "Automating cold email campaigns",
@@ -3813,7 +3982,7 @@
   },
   {
     "name": "Make",
-    "url": "https://www.make.com/en/register",
+    "url": "https://www.make.com/en/register?pc=insidrai",
     "desc": "Transform the way you work with the power of automation in one visual platform. Build and automate anything from tasks and workflows to apps and systems with ease. Say goodbye to multiple platforms and hello to seamless integration, with thousands of ready-made app integrations and the ability to connect to any online app using our powerful no-code tools. Streamline your processes and maximize your productivity with Make.com.",
     "useCases": [
       "Automating tasks and workflows",
@@ -3835,7 +4004,7 @@
   },
   {
     "name": "Openbox.ai",
-    "url": "https://www.opnbx.ai/",
+    "url": "https://www.opnbx.ai/?fpr=lasse66",
     "desc": "Send a Personalized Cold Email in 30 Seconds. Spending 3+ minutes scouring a LinkedIn profile for inspiration to write an email is exhausting. Let us research and write a personalized message for you in less than 30 seconds.",
     "useCases": [
       "Precision prospecting for sales teams",
@@ -3863,7 +4032,7 @@
   },
   {
     "name": "FinalScout",
-    "url": "https://finalscout.com/",
+    "url": "https://finalscout.com/?via=lasse",
     "desc": "Email Finding & Outreach at Scale using ChatGPT. By using ChatGPT to extract legitimate email addresses from LinkedIn and create customized emails based on LinkedIn profiles, email deliverability is assured at up to 98%. Expand your outreach activities and establish new levels of contact with prospective clients or consumers.",
     "useCases": [
       "Email outreach for customer acquisition",
@@ -3892,7 +4061,7 @@
   },
   {
     "name": "Smartwriter",
-    "url": "https://www.smartwriter.ai/",
+    "url": "https://www.smartwriter.ai/?via=lasse",
     "desc": "Generate 1000s of personalized emails and messages in seconds and get 8x more replies with Smartwriter.ai. Automate the email writing process and do 40x the amount of output way faster and cheaper.",
     "useCases": [
       "Automate cold email outreach for B2B sales",
@@ -3917,7 +4086,7 @@
   },
   {
     "name": "WellSaid",
-    "url": "https://wellsaidlabs.com/",
+    "url": "https://wellsaidlabs.com/?via=lasse",
     "desc": "Real-time voiceovers may be made from text. The leading voice platform for AI is WellSaid Labs. It is used by thousands of businesses to produce interesting content and experiences while saving time and money without sacrificing quality.",
     "useCases": [
       "Effortless audio creation for training modules and employee experiences",
@@ -3946,7 +4115,7 @@
   },
   {
     "name": "Castmagic",
-    "url": "https://www.castmagic.io/",
+    "url": "https://www.castmagic.io/?via=lasse",
     "desc": "Turn audio into content, like magic. Upload your MP3, download all your post production content. Turn your audio into ready to post content pieces.",
     "useCases": [
       "Automate content creation from audio and video",
@@ -3974,7 +4143,7 @@
   },
   {
     "name": "DeepBrain",
-    "url": "https://www.deepbrain.io/aistudios",
+    "url": "https://www.deepbrain.io/aistudios?via=lasse",
     "desc": "Instantly create AI-generated videos with simple writing using the 99% Reality AI Avatar. Create realistic looking AI videos with ease. To obtain your first AI video in no more than five minutes, simply prepare your script and use the Text-to-Speech tool.",
     "useCases": [
       "Training & Education",
@@ -4006,7 +4175,7 @@
   },
   {
     "name": "Synthesia",
-    "url": "https://www.synthesia.io/",
+    "url": "https://www.synthesia.io/?via=insidrai",
     "desc": "Synthesia.io lets you convert simple text into videos in seconds. It is currently one of the best platforms for creating AI videos. It is used by thousands of businesses to produce videos in 120 languages while saving them up to 80% of their time and money. Synthesia provides a time- & cost effective alternative to the traditional video creation.",
     "useCases": [
       "Create studio-quality training videos at scale",
@@ -4038,7 +4207,7 @@
   },
   {
     "name": "LetsAsk.AI",
-    "url": "https://letsask.ai/",
+    "url": "https://letsask.ai/?via=z5ovtlkqs7qwcfsvig1e",
     "desc": "ChatGPT for your website. Use a chatbot programmed to respond to queries from customers or staff members right away. Answer customer questions easily. The platform enables you to completely design your chatbot to match the voice and tone of your brand and to fit it to certain use cases and business requirements.",
     "useCases": [
       "Instant client support through a chatbot on your website",
@@ -4069,7 +4238,7 @@
   },
   {
     "name": "Wonderchat",
-    "url": "https://wonderchat.io/",
+    "url": "https://wonderchat.io/?via=insidrai",
     "desc": "Create an AI chatbot right away using your knowledge base. Create a bespoke chatbot powered by ChatGPT in 5 minutes by sharing the URL to your website or by uploading any PDF file.",
     "useCases": [
       "Supercharge customer support with AI chatbots",
@@ -4120,7 +4289,7 @@
   },
   {
     "name": "Flatlogic",
-    "url": "https://flatlogic.com/",
+    "url": "https://flatlogic.com/?ref=YyR_5nf4WW",
     "desc": "By utilizing OpenAI's natural language processing capabilities, Flatlogic offers a special integration that creates a database schema depending on the user's app description. Then, in a matter of minutes, the Flatlogic Full-Stack Web Generator produces a finished web application.",
     "useCases": [
       "MVP development in a month",
@@ -4150,7 +4319,7 @@
   },
   {
     "name": "Tinq.ai",
-    "url": "https://tinq.ai/",
+    "url": "https://tinq.ai/?via=lasse",
     "desc": "A set of easy-to-use & cutting-edge NLP APIs. Popular APIs: Text Generation - Rewriter/Paraphraser Summarizer Integrate text analysis that is quick and strong into your apps. From topic categorization to sentiment analysis and entity extraction, we've got you covered. Make it happen in a matter of days, not months! Text analysis: Plagiarism Checker; Custom classifiers; Sentiment Analysis; Named-entity Recognition.",
     "useCases": [
       "Content moderation",
@@ -4181,7 +4350,7 @@
   },
   {
     "name": "Vwo",
-    "url": "https://vwo.com/",
+    "url": "https://vwo.com/?utm_source=insidrai&pscd=affiliates.vwo.com&ps_partner_key=bGFzc2VsaW5uZXMxMzc2&ps_xid=JXIt5LovBOCV1B&gsxid=JXIt5LovBOCV1B&gspk=bGFzc2VsaW5uZXMxMzc2",
     "desc": "Turn your visitors into paying customers. Set up your first experiment right away.",
     "useCases": [
       "Increase conversions by reducing friction on eCommerce websites.",
@@ -4217,7 +4386,7 @@
   },
   {
     "name": "Pariso",
-    "url": "https://parsio.io/",
+    "url": "https://parsio.io/?ref=insidrai",
     "desc": "Utilize a document parser driven by AI to automate data extraction. Automatically extract structured data from your PDFs, emails, and other documents.",
     "useCases": [
       "Automated data extraction from emails, PDFs, and various document types",
@@ -4251,7 +4420,7 @@
   },
   {
     "name": "Surfer",
-    "url": "https://surferseo.com/",
+    "url": "https://surferseo.com/?fpr=lasse66",
     "desc": "Surfer is one of the absolute best SEO tools that will help write amazing SEO-optimized content. It will show you what you need to include in your articles, best keywords, current SEO score and how to improve, and basically makes sure every content piece is SEO-optimized and top notch. Comes with a free-trial.",
     "useCases": [
       "Boost organic traffic",
@@ -4286,7 +4455,7 @@
   },
   {
     "name": "Semrush",
-    "url": "https://www.semrush.com/",
+    "url": "https://www.semrush.com/?irclickid=&utm_source=affiliate&utm_Medium=impact&utm_campaign=3844535&utm_terms=&utm_content=&irgwc=1&utm_medium=impact&utm_term=",
     "desc": "Utilize internet marketing to achieve quantifiable outcomes. Utilize a single tool to perform SEO, content marketing, competition analysis, PPC, and social media marketing.",
     "useCases": [
       "Content marketing strategy development",
@@ -4328,7 +4497,7 @@
   },
   {
     "name": "INK",
-    "url": "https://inkforall.com/",
+    "url": "https://inkforall.com/?fpr=lasse79",
     "desc": "AI Content Marketing without Negatively affecting Your Brand. AI content is being strictly prohibited by Google and other sites. INK for all can find it. There is now an all-encompassing AI Content Platform that prioritizes security.",
     "useCases": [
       "Content creation and optimization for marketing and SEO",
@@ -4360,7 +4529,7 @@
   },
   {
     "name": "SinCode",
-    "url": "https://sincode.ai/",
+    "url": "https://sincode.ai/?via=lasse",
     "desc": "SinCode humanize your AI written content so you don’t get negative ratings from Google. SinCode will help you boost your SEO and all types of written content. Create SEO optimized plagiarism-free content for your blog, articles, website, email and all types of written content 10x faster.",
     "useCases": [
       "Streamline writing process for blog posts, articles, and advertisements",
@@ -4418,7 +4587,7 @@
   },
   {
     "name": "Copy.ai",
-    "url": "https://www.copy.ai/",
+    "url": "https://www.copy.ai/?via=lasse-linnes",
     "desc": "Copy.ai offers the fastest and most efficient way to generate high-quality content. Copy.ai creates content that attracts readers and converts them while saving time and money thanks to cutting-edge AI technology.",
     "useCases": [
       "Personalized Prospecting",
@@ -4445,8 +4614,30 @@
     "funcArea": "Marketing"
   },
   {
+    "name": "Zapier",
+    "url": "Link Missing",
+    "desc": "Zapier's AI Chatbot tool empowers users to effortlessly create personalized, AI-powered chatbots leveraging the capabilities of GPT. Crafting a chatbot using this tool is a straightforward process. Users simply need to provide a name, an optional greeting, and a prompt placeholder to guide chatters on how to engage with the bot. The key element is the directive, where users instruct the chatbot on its identity, knowledge, and desired responses.",
+    "useCases": [
+      "Creating personalized AI chatbots for customer engagement",
+      "Streamlining communication with automated responses",
+      "Enhancing user interaction through tailored chatbot conversations",
+      "Driving efficiency in customer support with AI-powered interactions"
+    ],
+    "keyFeatures": [
+      "Effortlessly create personalized AI-powered chatbots",
+      "Utilizes GPT capabilities for advanced interaction",
+      "Straightforward process for crafting chatbots",
+      "Customizable chatbot name and optional greeting",
+      "Directive feature for defining chatbot identity and responses"
+    ],
+    "pricingModel": [
+      "Pricing model cannot be determined."
+    ],
+    "funcArea": "Customer Success"
+  },
+  {
     "name": "Growthbar",
-    "url": "https://www.growthbarseo.com/",
+    "url": "https://www.growthbarseo.com/?afmc=em",
     "desc": "Write perfect SEO-friendly content for blog posts, website pages, and articles with AI. Make content that google loves in no time.",
     "useCases": [
       "Researching and writing SEO-optimized content",
@@ -4501,7 +4692,7 @@
   },
   {
     "name": "Kafkai",
-    "url": "https://kafkai.com/en/",
+    "url": "https://kafkai.com/en/?via=lasse",
     "desc": "Kafkai is a machine-learning algorithm that can write articles from scratch. Cutting-edge technology for marketers and SEOs.",
     "useCases": [
       "Content creation for blogs and websites",
@@ -4556,7 +4747,7 @@
   },
   {
     "name": "LongShot",
-    "url": "https://www.longshot.ai/",
+    "url": "https://www.longshot.ai/?deal=lasse24",
     "desc": "Create blogs that humans and search engines love using Artificial intelligence. LongShot is an AI writing assistant that helps you and your team create helpful blogs that rank on Google.",
     "useCases": [
       "Plan and generate SEO-friendly content for marketing teams and agencies",
@@ -4584,7 +4775,7 @@
   },
   {
     "name": "Typli.ai",
-    "url": "https://typli.ai/",
+    "url": "https://typli.ai/?ref=insidrai",
     "desc": "The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant.",
     "useCases": [
       "Blog Article Writing",
@@ -4644,7 +4835,7 @@
   },
   {
     "name": "RankRanger",
-    "url": "http://www.rankranger.com/",
+    "url": "http://www.rankranger.com/?aff=42d2de3e4a851072b78ff11cb6b219ff&a=101",
     "desc": "Drive organic growth with the help of this All-in-One SEO tool. Professional SEO Software's unique insights, competitor analysis, and unmatched progress monitoring.",
     "useCases": [
       "Drive organic growth through search engine optimization",
@@ -4676,7 +4867,7 @@
   },
   {
     "name": "Cohesive",
-    "url": "https://cohesive.so/",
+    "url": "https://cohesive.so/?fpr=lasse92",
     "desc": "Use the most advanced AI editor to produce extraordinary stuff. Put an end to ChatGPT prompt issues. With Cohesive, you may create, modify, and publish without difficulty.",
     "useCases": [
       "Create high-quality marketing content to maximize ROI",
@@ -4744,7 +4935,7 @@
   },
   {
     "name": "Rytr",
-    "url": "https://rytr.me/",
+    "url": "https://rytr.me/?via=lasse",
     "desc": "Rytr.me helps you write optimized content that convert 10x faster. Rytr is an AI writing assistant that enables you to produce excellent content quickly and inexpensively.",
     "useCases": [
       "Content Generation",
@@ -4778,7 +4969,7 @@
   },
   {
     "name": "AI-Writer",
-    "url": "https://ai-writer.com/",
+    "url": "https://ai-writer.com/?via=lasse73",
     "desc": "AI-Writer.com is an AI-powered content creation platform that generates high-quality, human-like articles in minutes. With a simple interface and powerful machine learning algorithms, you can quickly generate content for websites, blogs, and marketing materials; creates articles from simply a title using cutting-edge AI writing models.",
     "useCases": [
       "Generate quality content for marketing and SEO",
@@ -4811,7 +5002,7 @@
   },
   {
     "name": "ContentForge",
-    "url": "https://contentforge.ai/",
+    "url": "https://contentforge.ai/?fpr=u9mjo",
     "desc": "ContentForge will make all your text content for anything in just one click. Create texts for websites, blog, ad copy, emails, social media, and more.",
     "useCases": [
       "Generate content for websites, blogs, and social media",
@@ -4837,7 +5028,7 @@
   },
   {
     "name": "AlliAI",
-    "url": "https://www.alliai.com/",
+    "url": "https://www.alliai.com/?lmref=LkrEVg",
     "desc": "AlliAI help you optimize, automate, deploy & scale SEO. Create rules for site-wide optimization and quickly apply code updates to specific pages. You may rapidly deploy modifications after editing and optimizing text, content, and code directly on the page in your browser. Do SEO more quickly, inexpensively, and effectively than ever.",
     "useCases": [
       "Automating SEO processes for agencies and teams",
@@ -4875,7 +5066,7 @@
   },
   {
     "name": "Bertha",
-    "url": "https://bertha.ai/",
+    "url": "https://bertha.ai/?ref=9355",
     "desc": "Utilize Bertha’s persuasive marketing text creation capabilities to captivate your audience and increase conversion rates. With Bertha, creating high-quality content for your website can be done much more quickly than doing it the manual way. Use the power of AI-driven copywriting and picture creation as you transform your approach to content development.",
     "useCases": [
       "Creating compelling website copy",
@@ -4908,7 +5099,7 @@
   },
   {
     "name": "Copymatic",
-    "url": "https://copymatic.ai/",
+    "url": "https://copymatic.ai/?via=lasse",
     "desc": "Generate Content & Copy In Seconds with AI Use AI to boost your traffic and save hours of work. Automatically write unique, engaging and high-quality copy or content: from long-form blog posts or landing pages to digital ads in seconds.",
     "useCases": [
       "Boosting website traffic with AI-generated content",
@@ -4943,8 +5134,28 @@
     "funcArea": "Marketing"
   },
   {
+    "name": "Originality.ai",
+    "url": "https://originality.ai/?lmref=6jMSBA",
+    "desc": "For serious content publishers, the most accurate AI & plagiarism detector. Built exclusively for content marketers and SEO's, the most precise Chat GPT and GPT-4 AI detector.",
+    "useCases": [
+      "Plagiarism detection for maintaining content integrity",
+      "Fact-checking to ensure accuracy in published materials",
+      "Content generation through AI assistance for various formats"
+    ],
+    "keyFeatures": [
+      "Plagiarism detection to ensure original content creation.",
+      "Fact-checking capabilities to verify information accuracy.",
+      "User-friendly interface for easy utilization by professionals.",
+      "Designed to promote integrity in publishing and content creation."
+    ],
+    "pricingModel": [
+      "Pricing model cannot be determined."
+    ],
+    "funcArea": "Marketing"
+  },
+  {
     "name": "Moonbeam",
-    "url": "https://www.gomoonbeam.com/",
+    "url": "https://www.gomoonbeam.com/?via=lasse",
     "desc": "Moonbeam's AI will give you everything you need to write killer long form content. Become 2x Better at Writing in 10 Minutes.",
     "useCases": [
       "Assisting executives in writing long form content like essays, articles, and blogs efficiently",
@@ -4972,7 +5183,7 @@
   },
   {
     "name": "Hypotenuse AI",
-    "url": "https://www.hypotenuse.ai/",
+    "url": "https://www.hypotenuse.ai/?via=lasse63",
     "desc": "Turn a few keywords into original, insightful articles, product descriptions and social media copy with AI copywriting—all in just minutes. Try it free today.",
     "useCases": [
       "Create SEO optimized blog articles",
@@ -5008,7 +5219,7 @@
   },
   {
     "name": "Epagestore",
-    "url": "https://epagestore.ai/",
+    "url": "https://epagestore.ai/?ref=JCJ4DRH47PN7VJW",
     "desc": "Let AI create content for blogs, articles, websites, social media and more. Use for any copywriting purpose.",
     "useCases": [
       "Generate high-quality text effortlessly",
@@ -5061,7 +5272,7 @@
   },
   {
     "name": "iSavantAI",
-    "url": "https://isavant.ai/",
+    "url": "https://isavant.ai/?ref=Z4DFHT59YP8HZMG",
     "desc": "AI tool for content creation. Write anything using AI. Write, transcribe, and do text-to-speech in more than 35+ languages.",
     "useCases": [
       "Accelerating the content creation process for writers and marketers",
@@ -5090,7 +5301,7 @@
   },
   {
     "name": "Wordhero",
-    "url": "https://wordhero.co/",
+    "url": "https://wordhero.co/?via=lasse",
     "desc": "Wordhero is for writers, marketers and business owners. Write great content in no time with just a few clicks. Texts for website, blogs, marketing copy, and anything else.",
     "useCases": [
       "Create Amazon product descriptions",
@@ -5132,7 +5343,7 @@
   },
   {
     "name": "Linguix",
-    "url": "https://linguix.com/grammar-check",
+    "url": "https://linguix.com/grammar-check?sscid=81k8_nlqb&",
     "desc": "Linguix is an AI writing assistant that will help you generate content for all marketing purposes, as well as sales, HR, support, and more. Besides creating create content, it comes with a grammar checkes that will make sure the writing looks flawless.",
     "useCases": [
       "Improve content efficiency through grammar and spelling corrections.",
@@ -5166,7 +5377,7 @@
   },
   {
     "name": "Botowski",
-    "url": "https://www.botowski.com/",
+    "url": "https://www.botowski.com/?gr_pk=jo9z&gr_uid=Q0KP",
     "desc": "Botowski is your new personal AI copywriter.",
     "useCases": [
       "Content creation for marketing materials and website copy",
@@ -5203,7 +5414,7 @@
   },
   {
     "name": "Serpstat",
-    "url": "https://serpstat.com/",
+    "url": "https://serpstat.com/?ref=1658759",
     "desc": "Serpstat is one of the best growth hacking tools for SEO, Marketing, PPC and more. Optimize SEO with serpstat.",
     "useCases": [
       "Competitors analysis",
@@ -5226,7 +5437,7 @@
   },
   {
     "name": "SERanking",
-    "url": "https://seranking.com/",
+    "url": "https://seranking.com/?ga=2281952&source=link",
     "desc": "SERanking is your all-in-one SEO tool. Accurate keyword rank tracking, PPC/SEO competition analysis, website audits, backlink checking and monitoring.",
     "useCases": [
       "Website audit for SEO optimization",
@@ -5318,7 +5529,7 @@
   },
   {
     "name": "GetGenie",
-    "url": "https://getgenie.ai/",
+    "url": "https://getgenie.ai/?rui=239",
     "desc": "GetGenie is your all-in-one SEO AI-assistant.By consolidating all the capabilities you need into a single WordPress application, GetGenie AI works like magic, saving you time and money on 10+ other tools. Get ahead of the competition with SERP competition research and optimize your SEO game. AI-supported blog posts and sales copy, utilize SEO opportunities with AI-powered SEO keyword analysis.",
     "useCases": [
       "SEO content optimization",
@@ -5353,7 +5564,7 @@
   },
   {
     "name": "Simplified",
-    "url": "https://simplified.com/",
+    "url": "https://simplified.com/?fpr=lasse93",
     "desc": "Simplified AI Writer is a ai copywriting assistant that generates high-quality content for blogs, articles, product descriptions, websites & social media.",
     "useCases": [
       "Create and edit marketing content such as ads, presentations, and social media posts",
@@ -5384,7 +5595,7 @@
   },
   {
     "name": "Creaitor",
-    "url": "https://www.creaitor.ai/",
+    "url": "https://www.creaitor.ai/?ref=lasse85",
     "desc": "Creaitor helps you write content in a more powerful, emotionally expressive way.",
     "useCases": [
       "SEO optimized marketing copy creation for blogs, ads, and emails",
@@ -5417,7 +5628,7 @@
   },
   {
     "name": "WiziShop",
-    "url": "https://wizishop.com/",
+    "url": "https://wizishop.com/?afmc=fm6r4n",
     "desc": "Use WiziShop's Artificial Intelligence to write your e-commerce product descriptions, find inspiration for your future articles, easily go international, and generate more traffic to your store.",
     "useCases": [
       "Create and launch an online store easily",
@@ -5453,7 +5664,7 @@
   },
   {
     "name": "ParagraphAI",
-    "url": "https://www.paragraphai.com/",
+    "url": "https://www.paragraphai.com/?ref=lasselinnes1",
     "desc": "ParagraphAI is an AI Writing App that writes clear, concise, and error-free content.",
     "useCases": [
       "Instantly draft replies to emails and messages",
@@ -5482,7 +5693,7 @@
   },
   {
     "name": "Rythmex",
-    "url": "https://rythmex.com/",
+    "url": "https://rythmex.com/?partner=2222&uuid=d2cbf9c2-ad9e-4946-a1f7-a3a163380471&page=home",
     "desc": "Use the online Rythmex Converter to convert audio to text. Transcribing audio to text is simple, quick, and accurate.",
     "useCases": [
       "Transcribing recorded interviews and episodes for media outlets such as radio and podcasts",
@@ -5506,7 +5717,7 @@
   },
   {
     "name": "Opus Clip",
-    "url": "https://www.opus.pro/",
+    "url": "https://www.opus.pro/?via=b6310e",
     "desc": "Transform extended videos into 10 impactful clips effortlessly with Opus Clip, a generative AI video solution fueled by OpenAI. Enhance your content creation speed tenfold. Share high-quality short videos regularly to enhance visibility, attract followers, expedite your progress, and boost earnings.",
     "useCases": [
       "Video content repurposing",
@@ -5539,7 +5750,7 @@
   },
   {
     "name": "Fliki",
-    "url": "https://fliki.ai/",
+    "url": "https://fliki.ai/?via=lasse",
     "desc": "Create videos from scripts or blog posts using realistic voices in 2 minutes! Transform blog articles into videos. Lifelike Text to Speech Voices. Rich stock media library. Trusted by 30k+ content creators from companies like Google, Meta, Bytedance and Upwork.",
     "useCases": [
       "Create engaging marketing videos for social media platforms like YouTube and TikTok",
@@ -5575,7 +5786,7 @@
   },
   {
     "name": "Munch",
-    "url": "https://www.getmunch.com/",
+    "url": "https://www.getmunch.com/?utm_campaign=influencers&utm_medium=website&utm_source=rewardful&via=4b1c5b",
     "desc": "Automagically Turn long-form vids into data-driven short clips for social media. Munch generates exposure and engagement by harvesting top interest from TikTok, IG, YT, and FB users and applying it to your AI-generated clips.",
     "useCases": [
       "Extracting engaging clips from long-form videos for social media distribution",
@@ -5604,7 +5815,7 @@
   },
   {
     "name": "Listnr",
-    "url": "https://listnr.ai/",
+    "url": "https://listnr.ai/?gr_pk=85Y9&gr_uid=Q0KP",
     "desc": "AI Voice Generator with over 600+ voiceovers in 80+ languages, go from Text to Voice in seconds, export your voices easily in MP3 or WAV format.",
     "useCases": [
       "AI voiceover generation for advertisements, e-learning, product demos, presentations, audiobooks, and YouTube videos",
@@ -5635,7 +5846,7 @@
   },
   {
     "name": "Colossyan",
-    "url": "https://app.colossyan.com/affiliate",
+    "url": "https://app.colossyan.com/affiliate?priceId=price_1KvhQCFQ1FW4qOXyZNQvkSVv&quantity=20&via=lasse",
     "desc": "Colossyan Creator makes video creation simple and stress-free. Discover our AI video creator with real actors. Create videos in less than 5 minutes. Start for free here.",
     "useCases": [
       "Video content creation",
@@ -5657,7 +5868,7 @@
   },
   {
     "name": "Texta",
-    "url": "https://texta.ai/",
+    "url": "https://texta.ai/?via=lasse",
     "desc": "Create perfect blogposts with SEO-optimized text in minutes with Texta.",
     "useCases": [
       "Automated Blog Writing",
@@ -5692,7 +5903,7 @@
   },
   {
     "name": "AdCreative",
-    "url": "https://www.adcreative.ai/",
+    "url": "https://www.adcreative.ai/?gspk=bGFzc2VsaW5uZXMxMzc2&gsxid=R2mWPTMOrNJd&pscd=free-trial.adcreative.ai",
     "desc": "With AI-powered creatives created in only a few seconds, AdCreative.ai enhances your marketing potential. Be one step ahead of the competition with the help of the AI-text generator and real-time information about the success of your marketing. The AI tool will keep learning and become better every day. You can create endless amounts of posts in no time, and increase conversions by 14 times.",
     "useCases": [
       "Generate high-conversion ad creatives",
@@ -5727,7 +5938,7 @@
   },
   {
     "name": "Canva",
-    "url": "https://www.canva.com/pricing/",
+    "url": "https://www.canva.com/pricing/?clickId=&utm_medium=affiliate&utm_source=LasseL_3844535&irgwc=1",
     "desc": "Canva is the perfect tool for all creatives, branding presentations and more. Thousands of templates and now also with Brand-new AI technology that generates whatever image you describe.",
     "useCases": [
       "Design and create visual content for branding and marketing purposes",
@@ -5757,7 +5968,7 @@
   },
   {
     "name": "Go Charlie",
-    "url": "https://gocharlie.ai/",
+    "url": "https://gocharlie.ai/?fpr=lasse29",
     "desc": "Create amazing 4k Images, Social media creatives, Ads, and text content, all with the click of a button.",
     "useCases": [
       "Automating mundane tasks in retail operations",
@@ -5790,7 +6001,7 @@
   },
   {
     "name": "Kreateable",
-    "url": "https://www.shareasale.com/notactive.html",
+    "url": "https://www.shareasale.com/notactive.html?3548698",
     "desc": "All-in-one platform for stunning logos, social media posts, ads, magic resize, AI writing, image. background removal, brandkit, multiple brand management, invoices, and so much more.",
     "useCases": [
       "Affiliate marketing management",
@@ -5818,7 +6029,7 @@
   },
   {
     "name": "Hoppy Copy",
-    "url": "https://www.hoppycopy.co/",
+    "url": "https://www.hoppycopy.co/?via=lasse",
     "desc": "10x quicker email writing of high-converting emails. Spend less time writing. Utilize AI to quickly create effective text for a wide range of email marketing campaigns, drips, newsletters, and more.",
     "useCases": [
       "Email campaign creation",
@@ -5848,7 +6059,7 @@
   },
   {
     "name": "Browse AI",
-    "url": "https://www.browse.ai/",
+    "url": "https://www.browse.ai/?via=lasse",
     "desc": "Extract and monitor data in seconds with browse AI. Train the robot easily and no code required.",
     "useCases": [
       "Data extraction for reporting and analysis",
@@ -5881,7 +6092,7 @@
   },
   {
     "name": "Salesflow",
-    "url": "https://salesflow.io/referral/",
+    "url": "https://salesflow.io/referral/?fp_ref=lasse94",
     "desc": "Automate your outreach efforts and close more leads. Linkedin automation that will generate leads and sales way faster. For agencies, sales teams and start-ups.",
     "useCases": [
       "Automate LinkedIn connection requests to streamline lead generation",
@@ -5917,8 +6128,30 @@
     "funcArea": "Sales"
   },
   {
+    "name": "Vowel",
+    "url": "Link Missing",
+    "desc": "AI-powered meetings for fast-moving teams. Vowel is the AI tool for teams to host, summarize, search, and share video meetings — no add-ons required. Use code: INSIDR for a paid plan.",
+    "useCases": [
+      "Hosting video meetings",
+      "Summarizing video meetings",
+      "Searching through video meeting content",
+      "Sharing video meeting information"
+    ],
+    "keyFeatures": [
+      "AI-powered meeting facilitation for teams",
+      "Summarization of video meetings",
+      "Search functionality for meeting content",
+      "Easy sharing of meeting insights",
+      "No additional add-ons required"
+    ],
+    "pricingModel": [
+      "Pricing model cannot be determined."
+    ],
+    "funcArea": "Operations"
+  },
+  {
     "name": "Octopus",
-    "url": "https://octopuscrm.io/",
+    "url": "https://octopuscrm.io/?trackingId=W2G7FXWxxNw8zoXcqd8Oyae7Q0toqjDt",
     "desc": "LinkedIn automation made simple and effective. This all-in-one automation tool will help you simplify prospecting, grow your business and increase sales meetings.",
     "useCases": [
       "Lead generation",
@@ -5944,7 +6177,7 @@
   },
   {
     "name": "Saleshandy",
-    "url": "https://www.saleshandy.com/",
+    "url": "https://www.saleshandy.com/?p=v3&via=7ebf05",
     "desc": "Automate your cold outreach strategy with saleshandy. High email deliverability and personalized emails automatically.",
     "useCases": [
       "Personalize and automate cold email outreach",
@@ -5986,7 +6219,7 @@
   },
   {
     "name": "Zopto",
-    "url": "https://zopto.com/",
+    "url": "https://zopto.com/?fpr=lasse29",
     "desc": "Zopto is the premier LinkedIn automation tool that helps you scale your sales and outreach efforts. With its advanced features and intuitive interface, Zopto makes it easy to find and connect with your target audience, automate repetitive tasks, and generate leads. Whether you’re a sales professional, marketer, or recruiter, Zopto is the ultimate solution to help you maximize your LinkedIn presence and achieve your business goals.",
     "useCases": [
       "Lead generation through omni-channel outreach",
@@ -6015,7 +6248,7 @@
   },
   {
     "name": "Postaga",
-    "url": "https://app.paykickstart.com/t",
+    "url": "https://app.paykickstart.com/t?id=37297&aid=132308&",
     "desc": "Send Cold Email Easier Than Ever Before. Great tool for email outreach with personal sounding messages and get access to the all-in-one outreach platform.",
     "useCases": [
       "Sales Outreach",
@@ -6103,7 +6336,7 @@
   },
   {
     "name": "BotNation",
-    "url": "https://botnation.ai/en/",
+    "url": "https://botnation.ai/en/?utm_source=BN-4OZF1K&utm_medium=affiliates",
     "desc": "Botnation.ai is the ultimate conversational AI platform that empowers businesses to build and deploy intelligent chatbots with ease. Its cutting-edge natural language processing technology and user-friendly interface make it simple for businesses to create engaging and personalized conversational experiences for their customers. Whether you’re looking to improve customer service, increase conversions, or streamline processes, Botnation.ai has everything you need to succeed in the conversational AI space.",
     "useCases": [
       "Improve customer support",
@@ -6138,8 +6371,39 @@
     "funcArea": "Customer Success"
   },
   {
+    "name": "Notion AI",
+    "url": "https://www.notion.so/product?via=insidrai&utm_source=affl&utm_medium=lasselinnes1376&pscd=affiliate.notion.so&ps_partner_key=bGFzc2VsaW5uZXMxMzc2&ps_xid=h4202L9HzWRP2b&gsxid=h4202L9HzWRP2b&gspk=bGFzc2VsaW5uZXMxMzc2",
+    "desc": "Leverage the limitless power of AI in any Notion page. Write faster, think bigger, and augment creativity. All you wiki's, docs and projects in one place. Notion is the connected workspace where better, faster work happens.",
+    "useCases": [
+      "Centralizing knowledge through a wiki",
+      "Managing and organizing documents effectively",
+      "Facilitating project management with connected workflows",
+      "Integrating calendar functions for better time management",
+      "Creating and publishing content quickly with site management",
+      "Supporting team collaboration across various functions",
+      "Streamlining operations by consolidating multiple tools into one workspace",
+      "Leveraging AI to enhance productivity and creativity in various tasks"
+    ],
+    "keyFeatures": [
+      "Integrated AI assistant to enhance productivity",
+      "Simple and powerful documentation tools for efficient communication",
+      "Centralized wikis for easy access to team knowledge",
+      "Flexible project management capabilities to suit various team sizes",
+      "Incorporated calendar features for streamlined time management",
+      "Quick publishing options for speed in sharing content",
+      "Extensive template gallery to aid in setup and organization",
+      "Ability to integrate with various tools and platforms for cohesive workflows"
+    ],
+    "pricingModel": [
+      "Free for Personal Use",
+      "Plans for Small Business",
+      "Advanced Features for Enterprise"
+    ],
+    "funcArea": "Operations"
+  },
+  {
     "name": "Cody",
-    "url": "https://meetcody.ai/",
+    "url": "https://meetcody.ai/?fpr=insidrai",
     "desc": "Your AI-Assistant for Business. Like ChatGPT, Cody is a intelligent AI assistant. However, you can use your own knowledge base to teach it about your company, your team, your procedures, and your clients. Employ Cody to assist your team, provide guidance, assist with brainstorming, solve problems, and provide creative assistance.",
     "useCases": [
       "Boosting team productivity",
@@ -6179,7 +6443,7 @@
   },
   {
     "name": "Taskade",
-    "url": "https://www.taskade.com/",
+    "url": "https://www.taskade.com/?via=bbbbf8",
     "desc": "A second brain for your business team. A magical list to break down complexities and map out your collective mind. Unlock your collaborative brain and connect tasks, notes, and teams, in one unified workspace. AI-writing tools, notes and docs, tasks and projects, mind maps, video chats, and more.",
     "useCases": [
       "Build, train, and deploy AI agents to automate tasks and enhance productivity.",
@@ -6211,7 +6475,7 @@
   },
   {
     "name": "Alfred",
-    "url": "https://meetalfred.com/",
+    "url": "https://meetalfred.com/?ref=lasselinnes7",
     "desc": "Alfred is a GPT Chat Assistant for iOS. It is a new AI-powered search and content creation engine, combining ads-free search and content creation into one easy-to-use app experience. Powered by OpenAI's groundbreaking GPT-3, Alfred understands your natural language and provides accurate and relevant answers. With Alfred, searching and finding information has never been easier or more convenient. Try it now and experience the future of search and content creation.",
     "useCases": [
       "Automate lead prospecting on LinkedIn",
@@ -6246,7 +6510,7 @@
   },
   {
     "name": "DimeADozen.AI",
-    "url": "https://www.dimeadozen.ai/",
+    "url": "https://www.dimeadozen.ai/?via=lasse",
     "desc": "AI-based business concept validation. For any startup, market research enabled by AI. Utilize AI to quickly discover how your company may prosper and how to enter any industry.",
     "useCases": [
       "Instant Business Validation",
@@ -6277,7 +6541,7 @@
   },
   {
     "name": "Dux-Soup",
-    "url": "https://www.dux-soup.com/purchase",
+    "url": "https://www.dux-soup.com/purchase?fpr=lasse50",
     "desc": "Linkedin automation becomes easy with dux-soup. Handle your entire sales pipeline, track performance and book more sales meetings.",
     "useCases": [
       "Automate LinkedIn outreach to grow network and uncover leads",
@@ -6309,7 +6573,7 @@
   },
   {
     "name": "Orimon",
-    "url": "https://orimon.ai/",
+    "url": "https://orimon.ai/?ref=zdfkm2y",
     "desc": "Create your own AI chatbot in a matter of minutes. Engage your audience in conversation with near-human-like capabilities with powerful conversational AI for sales. More than 120 languages. Powered by the No. 1 conversational AI for enhancing sales, Oriserve, from Google and OpenAI’s chatGPT3.",
     "useCases": [
       "Increase lead generation and qualification through conversational AI",
@@ -6347,7 +6611,7 @@
   },
   {
     "name": "Convolo",
-    "url": "https://www.convolo.ai/",
+    "url": "https://www.convolo.ai/?_by=lasse34",
     "desc": "Convolo is one of the best sales tools for businesses. Tools for communication that increase sales. Boost Inbound & Outbound Campaign ROI: Call each new inbound lead within a minute. Reach More Prospects With Your Outbound Calling Campaigns.",
     "useCases": [
       "Automating cold calls to potential clients",
@@ -6373,7 +6637,7 @@
   },
   {
     "name": "RepliQ",
-    "url": "https://www.repliq.co/",
+    "url": "https://www.repliq.co/?lmref=PLoiOA",
     "desc": "Attract more meetings by hooking your prospects. With customised video, you can have a greater effect in less time without having to deal with the trouble of making individual movies. RepliQ gives you the ability to provide personalized messages that produce results while enabling you to interact with your audience in your cold outreach on a whole new level.from only one product picture.",
     "useCases": [
       "Personalized cold email outreach",
@@ -6400,7 +6664,7 @@
   },
   {
     "name": "SheetAI",
-    "url": "https://www.sheetai.app/",
+    "url": "https://www.sheetai.app/?via=lasse",
     "desc": "Available for Google Sheets and Excel (Coming Soon) Skip the learning and get straight to work. Use AI to transform your text instructions into a Google Sheet formula quickly. (Going live in 2-3 weeks)",
     "useCases": [
       "Automating tasks in Google Sheets",
@@ -6428,7 +6692,7 @@
   },
   {
     "name": "Humata",
-    "url": "https://www.humata.ai/",
+    "url": "https://www.humata.ai/?via=insidrai",
     "desc": "Upload a PDF and get answers from it. Create Reports 100X Faster. Understand Technical Documents 100X Faster. Analyze Legal Documents 100X Faster.",
     "useCases": [
       "Summarizing long technical papers",
@@ -6463,8 +6727,35 @@
     "funcArea": "Legal"
   },
   {
+    "name": "Otta AI",
+    "url": "https://otter.ai/?utm_term=1113693&utm_medium=tracking_link&utm_source=affiliate&utm_content=LasseL&irclickid=&irgwc=1",
+    "desc": "Capture and share insights from your meetings. Otter records meetings, take notes in real-time, and generates an automated summary to share with everyone and to help you remember everything.",
+    "useCases": [
+      "Automate meeting note-taking and transcriptions",
+      "Generate automated summaries and action items from meetings",
+      "Enhance team productivity by sharing meeting notes via Slack and email",
+      "Provide real-time captions and notes for meetings and lectures",
+      "Simplify sales processes by capturing insights and writing follow-up emails",
+      "Transcribe and summarize interviews for recruiting purposes",
+      "Facilitate cross-functional team alignment through automated action item assignments"
+    ],
+    "keyFeatures": [
+      "Automated real-time transcriptions for meetings across platforms like Zoom, Google Meet, and Microsoft Teams.",
+      "Automatic generation of meeting summaries and action items to enhance productivity.",
+      "Integration with popular business tools such as Salesforce and Slack for streamlined workflow.",
+      "Ability to condense lengthy meetings into quick summaries for easy reference.",
+      "Capable of capturing contextual notes and highlights during virtual meetings."
+    ],
+    "pricingModel": [
+      "Free plan: Limited to 300 transcription minutes per user per month, with basic features and integrations.",
+      "Pro plan: $8.33 per user per month, 1200 transcription minutes, additional features such as custom vocabulary and priority support.",
+      "Business plan: $20 per user per month, 6000 transcription minutes, advanced functionalities including team management, and enhanced security features."
+    ],
+    "funcArea": "Operations"
+  },
+  {
     "name": "Guidde",
-    "url": "https://www.guidde.com/",
+    "url": "https://www.guidde.com/?ref=mtdkmtc",
     "desc": "Explain the most complex flows in seconds with AI generated video documentation. AI can magically produce beautiful how-to tutorials. AI can magically produce beautiful SOPs. The generative AI platform for business, guidde, enables your team to produce video documentation 11x more quickly.",
     "useCases": [
       "Creating video documentation for how-to guides",
@@ -6497,7 +6788,7 @@
   },
   {
     "name": "Writelytic",
-    "url": "https://writelytic.com/",
+    "url": "https://writelytic.com/?aff=insidrai",
     "desc": "Unlock the power of effortless AI writing, no prompt engineering required. Leave generic content in the past and harness AI's potential to craft compelling, high-converting content in seconds—whether it's blog posts or digital ads. Your personal AI copywriter understands your needs and transforms them into effective, goal-specific marketing copy. Save big on prompt engineering costs.",
     "useCases": [
       "Content generation for various purposes (blog posts, social media, newsletters)",
@@ -6526,7 +6817,7 @@
   },
   {
     "name": "Elastic Email",
-    "url": "https://elasticemail.com/select-product",
+    "url": "https://elasticemail.com/select-product?r=de17d604-3413-41e4-98d5-aaa191b473ed&link=2",
     "desc": "Elastic email is an email marketing platform that works great for email automations, campaigns, building signup forms, landingpages, and analytics.",
     "useCases": [
       "Email marketing campaigns",
@@ -6553,7 +6844,7 @@
   },
   {
     "name": "Durable",
-    "url": "https://durable.co/ai-website-builder",
+    "url": "https://durable.co/ai-website-builder?via=lasse",
     "desc": "Durable builds you a website in just 30 seconds using AI. It instantly designs your website, finds professional images, and writes copy for you in seconds. Durable also helps you get traffic; the AI Assistant can create promotions, marketing plans, client responses, or help you navigate the platform.",
     "useCases": [
       "Building a business website quickly and easily",
@@ -6576,6 +6867,25 @@
     "pricingModel": [
       "Starter subscription at $12 per month",
       "Business subscription at $20 per month"
+    ],
+    "funcArea": "Marketing"
+  },
+  {
+    "name": "PageGenie",
+    "url": "Link Missing",
+    "desc": "Instantly create a landing page from your product concept. With the help of AI, PageGenie converts your prompt into a complete landing page.Spend less time looking and get quick answers from all of your material.",
+    "useCases": [
+      "Create landing pages from product concepts",
+      "Generate marketing materials quickly",
+      "Improve efficiency in accessing content"
+    ],
+    "keyFeatures": [
+      "Instant landing page creation from product concepts",
+      "AI-driven conversion of prompts into complete landing pages",
+      "Quick access to answers from existing material"
+    ],
+    "pricingModel": [
+      "Pricing model cannot be determined."
     ],
     "funcArea": "Marketing"
   },
@@ -6615,7 +6925,7 @@
   },
   {
     "name": "Phonesites",
-    "url": "https://phonesites.com/",
+    "url": "https://phonesites.com/?pscd=a.phonesites.com&ps_partner_key=bGFzc2VsaW5uZXMxMzc2&ps_xid=CW00xb3RtJe493&gsxid=CW00xb3RtJe493&gspk=bGFzc2VsaW5uZXMxMzc2",
     "desc": "PhoneSites is a mobile website builder that makes it easy for businesses to create and manage a professional-looking mobile website. The platform offers a range of templates, customization options, and mobile-responsive design to ensure a seamless user experience on any device. With PhoneSites, businesses can reach a wider audience, improve their online visibility, and boost their sales by having a mobile-optimized website.",
     "useCases": [
       "Lead generation",
@@ -6682,7 +6992,7 @@
   },
   {
     "name": "ClickFunnels",
-    "url": "https://www.clickfunnels.com/go",
+    "url": "https://www.clickfunnels.com/go?aff=532dae05-d89d-4394-8132-de60fb0434c4-1WzEwLDc1OTFd2",
     "desc": "ClickFunnels offers a comprehensive solution for creating and managing sales funnels, without any technical know-how required. The platform provides a wide range of customizable templates and drag-and-drop functionality to simplify the funnel-building process. With ClickFunnels, you can increase conversions, streamline your sales process, and grow your business, all in one place.",
     "useCases": [
       "Convert online visitors into paying customers",
@@ -6733,7 +7043,7 @@
   },
   {
     "name": "Hellobar",
-    "url": "https://www.hellobar.com/",
+    "url": "https://www.hellobar.com/?pscd=try.hellobar.com&ps_partner_key=bGFzc2VsaW5uZXMxMzc2&ps_xid=e31Lm3jN1iSlH9&gsxid=e31Lm3jN1iSlH9&gspk=bGFzc2VsaW5uZXMxMzc2",
     "desc": "Hello Bar is a powerful conversion optimization tool that helps businesses increase their website’s conversion rate. The platform allows businesses to create and display eye-catching, personalized messages and calls-to-action to their website visitors. With Hello Bar, businesses can improve their website’s user experience, increase engagement, and drive more conversions, all in one easy-to-use platform.",
     "useCases": [
       "Increase lead generation and conversion rates on websites",
@@ -6766,7 +7076,7 @@
   },
   {
     "name": "Pictory",
-    "url": "https://pictory.ai/",
+    "url": "https://pictory.ai/?ref=insidrai85&el=2000&htrafficsource=pictoryblog",
     "desc": "Generate short, brand-focused, and easily shareable videos from your lengthy content automatically. Effortless, economical and no technical expertise or software installation needed. Create short branded videos from long-form content, turn sales scripts into video content in minutes, transform your blogposts into videos, and add caption automatically.",
     "useCases": [
       "Create engaging marketing videos quickly and efficiently",
@@ -6793,7 +7103,7 @@
   },
   {
     "name": "Morise.ai",
-    "url": "https://tubemagic.com/",
+    "url": "https://tubemagic.com/?via=ylsxq6d6x6n3zgqaq2ai",
     "desc": "You make the videos and Morise.ai will make them go viral using AI. Trained with the best performing content on YouTube, Morise.ai knows exactly what it takes for a video to go viral, you can focus on creating the content.",
     "useCases": [
       "Generating unlimited video ideas for YouTube channels",
@@ -6820,7 +7130,7 @@
   },
   {
     "name": "Followr",
-    "url": "https://followr.ai/",
+    "url": "https://followr.ai/?ref=insidr",
     "desc": "Content and posting on social media automatically with AI. Advanced analytics, AI-assisted content production, and automated scheduling may all be used to improve your strategy and boost engagement on your social media platforms.",
     "useCases": [
       "Automating social media strategy and calendar management",
@@ -6854,7 +7164,7 @@
   },
   {
     "name": "Devi",
-    "url": "https://ddevi.com/en",
+    "url": "https://ddevi.com/en?via=lasse",
     "desc": "Your social media manager with AI. Automate scheduling, content creation, and lead monitoring.",
     "useCases": [
       "Monitor social media for lead generation",
@@ -6886,7 +7196,7 @@
   },
   {
     "name": "Manychat",
-    "url": "https://manychat.com/",
+    "url": "https://manychat.com/?irclickid=&irgwc=1&utm_source=Affiliate&utm_content=Insidr.ai&utm_medium=Impact&utm_campaign=Online%20Tracking%20Link",
     "desc": "Automate interactive conversations in Instagram Direct Messages, Facebook Messenger, and SMS to grow your brand.",
     "useCases": [
       "Drive sales and conversions through automation on social media platforms like Instagram, WhatsApp, and Messenger.",
@@ -6914,7 +7224,7 @@
   },
   {
     "name": "Predis.ai",
-    "url": "https://predis.ai/",
+    "url": "https://predis.ai/?ref=lasse65",
     "desc": "Predis.ai helps you make great social media creatives in seconds. No need to be an expert content creator; Predis.ai creates images, video, carousels, and captions, all in one place. Integrates with your favorite platforms, helps you stay active on social media, and available in 18 languages.",
     "useCases": [
       "AI-generated social media content",
@@ -6949,7 +7259,7 @@
   },
   {
     "name": "Ocoya",
-    "url": "https://www.ocoya.com/",
+    "url": "https://www.ocoya.com/?via=lasse",
     "desc": "A platform to create, auto-generate and schedule content quicker. Content marketing, copywriting and social media in minutes.",
     "useCases": [
       "Generate and post marketing content across social media quickly and efficiently",
@@ -6984,7 +7294,7 @@
   },
   {
     "name": "Copygenius",
-    "url": "https://copygenius.io/",
+    "url": "https://copygenius.io/?ref=insidrai",
     "desc": "Copygenius uses artificial intelligence to write texts for websites, ad copy, blogs, descriptions, and anything you need copywriting for.",
     "useCases": [
       "Generate product descriptions",
@@ -7022,7 +7332,7 @@
   },
   {
     "name": "Simple Phones",
-    "url": "https://www.simplephones.ai/",
+    "url": "https://www.simplephones.ai/?fpr=lasse96",
     "desc": "Never miss a call from a customer again. Use AI to answer your missed calls if you forward them to a different number or obtain a new one.",
     "useCases": [
       "Inbound call management using AI voice agents",
@@ -7052,7 +7362,7 @@
   },
   {
     "name": "CrawlQ",
-    "url": "https://app.crawlq.ai/sign-up",
+    "url": "https://app.crawlq.ai/sign-up?_get=lasse82",
     "desc": "The Ultimate Solution for High-RoI Business Outcomes. Automate the content workflow by saving hundreds of hours in Niche research, just fill in a few questions, then based on their answers create the perfect content for your target audience.",
     "useCases": [
       "Content marketing strategy development",
@@ -7074,7 +7384,7 @@
   },
   {
     "name": "Shakespeare AI",
-    "url": "https://www.shakespeare.ai/lp/start-for-free/",
+    "url": "https://www.shakespeare.ai/lp/start-for-free/?fpr=lasse88",
     "desc": "Shakespeare will write effective marketing copy for everything marketing using AI.",
     "useCases": [
       "Generate optimized product descriptions for e-commerce platforms",
@@ -7100,7 +7410,7 @@
   },
   {
     "name": "Text Cortex",
-    "url": "https://textcortex.com/",
+    "url": "https://textcortex.com/?via=lasse",
     "desc": "Text Cortex is your one AI tool to write all the text copy you need, wether it's for your website, blog posts, ad copy, for marketing, or anything else - text cortex can do it effectively.",
     "useCases": [
       "Integrate knowledge and optimize team collaboration",
@@ -7136,7 +7446,7 @@
   },
   {
     "name": "PhantomBuster",
-    "url": "https://phantombuster.com/",
+    "url": "https://phantombuster.com/?deal=lasse79",
     "desc": "PhantomBuster stands out as a game-changer in the automation space with its advanced capabilities to extract data and automate complex workflows. Say goodbye to manual data entry and repetitive tasks, as PhantomBuster’s AI-powered algorithms do the heavy lifting for you. With unmatched speed, precision and scalability, PhantomBuster is the only automation tool you need to maximize your productivity and drive business growth.",
     "useCases": [
       "Lead generation automation",
@@ -7157,7 +7467,7 @@
   },
   {
     "name": "Anyword",
-    "url": "https://anyword.com/data-driven-basic/",
+    "url": "https://anyword.com/data-driven-basic/?fpr=lasse44",
     "desc": "Anyword’s AI writing assistant generates effective copy for anyone. Take the guesswork out of your marketing text with an AI copywriting tool that converts.",
     "useCases": [
       "Generate effective copy for ads",
@@ -7192,7 +7502,7 @@
   },
   {
     "name": "Shuffl",
-    "url": "https://shuffll.com/",
+    "url": "https://shuffll.com/?via=lasse",
     "desc": "Shuffll is a cutting-edge video production platform that uses AI technology to streamline the creation process. Our platform allows businesses to easily create high-quality, personalized video content in a fraction of the time it would take using traditional methods.",
     "useCases": [
       "Create branded thought leadership videos",
@@ -7220,7 +7530,7 @@
   },
   {
     "name": "Snov.io",
-    "url": "https://snov.io/",
+    "url": "https://snov.io/?_get=lasse28",
     "desc": "Snov.io is the ultimate all-in-one outreach and lead generation tool, helping you streamline your sales and marketing efforts. With powerful features like email verification, email finder, and advanced search filters, Snov.io makes it easy to find and reach out to your target audience. Whether you’re looking to build your email list, generate leads, or grow your business, Snov.io provides the tools you need to succeed.",
     "useCases": [
       "Generate leads and discover new lead sources",
@@ -7249,7 +7559,7 @@
   },
   {
     "name": "Repurpose",
-    "url": "https://repurpose.io/",
+    "url": "https://repurpose.io/?aff=71855",
     "desc": "Expand your audience with Repurpose.IO. Simplify your content workflow and focus on creating great content. Quickly build your online presence and expand your audience across multiple platforms with ease. Repurpose your content from YouTube, TikTok, Instagram, Facebook, Zoom, Google Drive, Dropbox, and Audio Podcasts into unlimited pieces optimized for each channel. Publish or schedule to you chosen channels.",
     "useCases": [
       "Automate content distribution and scheduling across social media platforms",
@@ -7276,7 +7586,7 @@
   },
   {
     "name": "Tugan",
-    "url": "https://www.tugan.ai/",
+    "url": "https://www.tugan.ai/?via=lasse",
     "desc": "To instantly generate your marketing emails, tweets, and threads with AI, enter a URL or TOPIC. An AI program that can create informative and sales-generating material that is opened, read, and shared.",
     "useCases": [
       "Content creation for marketing and sales",
@@ -7302,7 +7612,7 @@
   },
   {
     "name": "Marketing Blocks",
-    "url": "https://marketingblocks.ai/ultimate/",
+    "url": "https://marketingblocks.ai/ultimate/?affiliate=insidrai",
     "desc": "‘Human-like’ All-In-One AI Marketing Assistant. All your Landing Pages, Promo Videos, Ads, Marketing Copy, Graphics, Email Swipes, Voiceovers, Blog Post, Articles, Art & more - Done In 60 Secs By AI.",
     "useCases": [
       "AI-driven marketing content creation",
@@ -7326,7 +7636,7 @@
   },
   {
     "name": "GoHighLevel",
-    "url": "https://www.gohighlevel.com/freetrial9",
+    "url": "https://www.gohighlevel.com/freetrial9?fp_ref=lasse13",
     "desc": "High-level helps you manage your sales pipeline more efficiently with its cutting-edge AI technology. The platform offers a unified view of all your sales activities, enabling you to make informed decisions in real-time. With High-level, you can enjoy increased productivity, improved collaboration, and a boost in your sales results.",
     "useCases": [
       "Elevating marketing and sales efforts for agencies",
@@ -7360,7 +7670,7 @@
   },
   {
     "name": "ContentStudio",
-    "url": "https://contentstudio.io/",
+    "url": "https://contentstudio.io/?fpr=lasse77",
     "desc": "Streamline your social media management with ContentStudio.io. Say goodbye to cluttered and confusing social media tools, and hello to a simple yet powerful all-in-one solution for agencies, brands, and marketers. Stay organized and maximize your productivity with our easy-to-use platform that lets you plan, create, and schedule eye-catching posts for the right channels at the optimal time. Get more done in less time with the easiest way to manage and grow your social channels.",
     "useCases": [
       "Social Media Management",
@@ -7393,7 +7703,7 @@
   },
   {
     "name": "Nando AI",
-    "url": "https://nando.ai/",
+    "url": "https://nando.ai/?ref=ntywmtm",
     "desc": "Create High-Converting Copy For Your Online Business In Seconds. Explore Over 60 Powerful Tools to Craft Compelling Product Descriptions, Video Scripts, Ad Concepts, Copy, Blog Posts, Social Media Content, and Much More.",
     "useCases": [
       "Generate high-converting product descriptions for e-commerce",
@@ -7421,6 +7731,29 @@
     ],
     "pricingModel": [
       "Free trial available to start using Nando AI Chat."
+    ],
+    "funcArea": "Marketing"
+  },
+  {
+    "name": "Cosmos AI",
+    "url": "Link Missing",
+    "desc": "Cosmos AI is your all-in-one AI content generator. Create the content that matters the most; whether it’s blog posts, social media captions, AI images, speech to text, coding assistant, or anything else. Instead of using multiple AI tools to get the job done, you can gather all of your content needs into one platform.",
+    "useCases": [
+      "Content generation for blogs and articles",
+      "Social media content creation",
+      "AI-generated images",
+      "Speech-to-text conversion",
+      "Coding assistance",
+      "Streamlining content creation by consolidating multiple tools into one platform"
+    ],
+    "keyFeatures": [
+      "All-in-one AI content generator",
+      "Creates diverse content types including blog posts, social media captions, AI images, and more",
+      "Includes features for speech to text and coding assistance",
+      "Eliminates the need for multiple AI tools by combining all content needs into one platform"
+    ],
+    "pricingModel": [
+      "Pricing model cannot be determined."
     ],
     "funcArea": "Marketing"
   }
