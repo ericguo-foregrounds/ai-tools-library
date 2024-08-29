@@ -54,7 +54,7 @@ const fs = require('fs');
     }
     await browser.close();
 
-    fs.writeFile('data/scrapedDataa.json', JSON.stringify(data, null, 2), (err) => {
+    fs.writeFile('data/scrapedData.json', JSON.stringify(data, null, 2), (err) => {
         if (err) throw err;
         console.log('Data saved.');
     });
