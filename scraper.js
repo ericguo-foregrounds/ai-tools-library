@@ -31,7 +31,7 @@ const fs = require('fs');
                     link = "Link Missing";
                 }
                 else { // if links are missing on the page, the array links.length !== tools.length
-                    try { // error might occur when going to new page (dead link)
+                    try { // error might occur when going to new page (dead link) - we wait 90 seconds for Insidr to load or else likely dead link
                         link = await links[0].getAttribute("href", {timeout: 90000});
                         await page.goto(link, {timeout: 90000});
                         link = page.url();
@@ -40,8 +40,8 @@ const fs = require('fs');
                         link = "Link Missing";
                         console.log("Possible Dead Link", err);
                     }
-                    links.shift(); // since we're going sequentially through the tools, if link is present, remove it from links array after it has been added to csv.
-                    // this way we won't need two for loops
+                    links.shift(); // since we're going sequentially through the tools, if link is present, remove it from links array after it has been added to data array.
+                    // this way we won't need extra complex log (two for loops?)
                     await page.goto(url, {timeout: 90000}); // goes back to the insidr link to collect info about the next tool
                 }
                 data.push({name: name, link: link, desc: desc});

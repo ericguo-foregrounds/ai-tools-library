@@ -36,16 +36,16 @@ function iterateData() { // iterates over rawData
 
         if (link !== "Link Missing") { // if link is not missing
             scrapeWebsite(link).then(homepage => {
-                enhancedData.push({ name: name, link: link, desc: desc, homepage: homepage });
+                enhancedData.push({ name: name, link: link, desc: desc, homepage: homepage }); // add Jina homepage data to new enhancedData array
                 currentIndex++;
-                setTimeout(iterateData, 9000); // Wait for 30 seconds before processing the next item
+                setTimeout(iterateData, 9000); // Wait for 9 seconds before processing the next item
             }).catch(err => {
                 console.log("Error processing link", link, err);
                 enhancedData.push({ name: name, link: link, desc: desc, homepage: "Homepage Data Missing." });
                 currentIndex++;
                 setTimeout(iterateData, 9000);
             });
-        } else { // if link is missing
+        } else { // if link is missing - CANNOT use Jina to scrape!
             enhancedData.push({ name: name, link: link, desc: desc, homepage: "Homepage Data Missing." });
             currentIndex++;
             setTimeout(iterateData, 9000);

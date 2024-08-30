@@ -14,39 +14,39 @@ const openai = new OpenAI(
 // Creates schema for structured output
   
 const prunedSchema = z.object({
-    result: z.boolean(),
-    explanation: z.string()
+    result: z.boolean(), // result is the boolean value - true for relevant false for irrelevant
+    explanation: z.string() // if false, we're going to ask the LLM to provide us with a short explanation
 });
 
 const data = JSON.parse(fs.readFileSync('data/featuresData.json', 'utf8'));
 
 let currentIndex = 0;
-const finalData = [];
+const prunedData = [];
 
-iterateData();
+iterateData(); // starts process
 
 function iterateData() {
-    if (currentIndex < data.length) {
+    if (currentIndex < data.length) { // recursive function structure - acts as for loop
         console.log(`${data.length - currentIndex} tools left to be processed.`);
         const tool = data[currentIndex];
         pruneTool(tool)
             .then(res => {
                 console.log(res.result, res.explanation);
-                if (res.result) { // true
-                    finalData.push(tool);
+                if (res.result) { // if true (relevant) add tool to prunedData array
+                    prunedData.push(tool);
                 }
                 currentIndex++;
                 setTimeout(iterateData, 3000);
             })
             .catch(e => {
                 console.log(e);
-                finalData.push(tool);
+                prunedData.push(tool);
                 currentIndex++;
                 setTimeout(iterateData, 3000);
             })
     }
     else { // Once every url has been iterated through
-        fs.writeFile('data/prunedData.json', JSON.stringify(finalData, null, 2), (err) => {
+        fs.writeFile('data/prunedData.json', JSON.stringify(prunedData, null, 2), (err) => {
             if (err) throw err;
             console.log('Pruned data saved.');
         });
@@ -65,7 +65,7 @@ async function pruneTool(tool) {
     for (let feature of tool.keyFeatures) {
         keyFeatures += `${feature}, `;
     }
-
+    // prompts LLM
     try {
         const completion = await openai.beta.chat.completions.parse({
             model: "gpt-4o-mini",
@@ -99,5 +99,5 @@ async function pruneTool(tool) {
           console.log("An error occurred: ", e.message);
           return true;
         }
-      }
+    }
 }

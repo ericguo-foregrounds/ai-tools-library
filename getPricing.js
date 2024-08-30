@@ -21,29 +21,29 @@ const pricingSchema = z.object({
 const data = JSON.parse(fs.readFileSync('data/prunedData.json', 'utf8'));
 
 let currentIndex = 0;
-const finalData = [];
+const pricingData = [];
 
-iterateData();
+iterateData(); // starts the process
 
 function iterateData() {
-    if (currentIndex < data.length) {
+    if (currentIndex < data.length) { // recursive function structure - acts as for loop
         console.log(`${data.length - currentIndex} tools left to be processed.`);
         const tool = data[currentIndex];
         getPricingModel(tool)
             .then(res => {
-                finalData.push({name: tool.name, url: tool.url, desc: tool.desc, homepage: tool.homepage, useCases: tool.useCases, keyFeatures: tool.keyFeatures, ...res});
+                pricingData.push({name: tool.name, url: tool.url, desc: tool.desc, homepage: tool.homepage, useCases: tool.useCases, keyFeatures: tool.keyFeatures, ...res});
                 currentIndex++;
                 setTimeout(iterateData, 1000);
             })
             .catch(e => {
                 console.log(e);
-                finalData.push({name: tool.name, url: tool.url, desc: tool.desc, homepage: tool.homepage, useCases: tool.useCases, keyFeatures: tool.keyFeatures, pricingModel: ["Pricing model cannot be determined."]});
+                pricingData.push({name: tool.name, url: tool.url, desc: tool.desc, homepage: tool.homepage, useCases: tool.useCases, keyFeatures: tool.keyFeatures, pricingModel: ["Pricing model cannot be determined."]});
                 currentIndex++;
                 setTimeout(iterateData, 1000);
             })
     }
     else { // Once every url has been iterated through
-        fs.writeFile('data/pricingData.json', JSON.stringify(finalData, null, 2), (err) => {
+        fs.writeFile('data/pricingData.json', JSON.stringify(pricingData, null, 2), (err) => {
             if (err) throw err;
             console.log('Final pricing data saved.');
         });
@@ -70,9 +70,7 @@ async function getPricingModel(tool) {
             console.log(`Error accessing ${tool.pricingLink}`, e.status);
         }
     }
-    if(data.length > 15000) {
-        data = data.substring(0, 15000);
-    }
+
     // now, we feed the scraped data into the LLM for it to determine a pricing model
     try {
         const completion = await openai.beta.chat.completions.parse({

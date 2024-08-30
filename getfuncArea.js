@@ -18,29 +18,29 @@ const funcAreaSchema = z.object({
 const data = JSON.parse(fs.readFileSync('data/pricingData.json', 'utf8'));
 
 let currentIndex = 0;
-const finalData = [];
+const funcAreaData = [];
 
-iterateData();
+iterateData(); // starts the process
 
 function iterateData() {
-    if (currentIndex < data.length) {
+    if (currentIndex < data.length) { // recursive function structure - acts as for loop
         console.log(`${data.length - currentIndex} tools left to be processed.`);
         const tool = data[currentIndex];
         getFuncArea(tool)
             .then(res => {
-                finalData.push({ name: tool.name, url: tool.url, desc: tool.desc, useCases: tool.useCases, keyFeatures: tool.keyFeatures, pricingModel: tool.pricingModel, ...res });
+                funcAreaData.push({ name: tool.name, url: tool.url, desc: tool.desc, useCases: tool.useCases, keyFeatures: tool.keyFeatures, pricingModel: tool.pricingModel, ...res });
                 currentIndex++;
                 setTimeout(iterateData, 1000);
             })
             .catch(e => {
                 console.log(e);
-                finalData.push({ name: tool.name, url: tool.url, desc: tool.desc, useCases: tool.useCases, keyFeatures: tool.keyFeatures, pricingModel: tool.pricingModel, funcArea: "Functional area cannot be determined."});
+                funcAreaData.push({ name: tool.name, url: tool.url, desc: tool.desc, useCases: tool.useCases, keyFeatures: tool.keyFeatures, pricingModel: tool.pricingModel, funcArea: "Functional area cannot be determined."});
                 currentIndex++;
                 setTimeout(iterateData, 1000);
             })
     }
     else { // Once every url has been iterated through
-        fs.writeFile('data/funcAreaData.json', JSON.stringify(finalData, null, 2), (err) => {
+        fs.writeFile('data/funcAreaData.json', JSON.stringify(funcAreaData, null, 2), (err) => {
             if (err) throw err;
             console.log('Final data with funcArea saved.');
         });
@@ -59,7 +59,7 @@ async function getFuncArea(tool) {
     for (let feature of tool.keyFeatures) {
         keyFeatures += `${feature}, `;
     }
-
+    // prompts LLM
     try {
         const completion = await openai.beta.chat.completions.parse({
             model: "gpt-4o-mini",

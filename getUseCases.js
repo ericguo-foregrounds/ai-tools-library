@@ -22,28 +22,28 @@ const useCasesSchema = z.object({
 const data = JSON.parse(fs.readFileSync('data/linkData.json', 'utf8'));
 
 let currentIndex = 0;
-const finalData = [];
+const useCaseData = [];
 
-iterateData();
+iterateData(); // starts the process
 
-function iterateData() {
-    if (currentIndex < data.length) {
+function iterateData() { 
+    if (currentIndex < data.length) { // recursive function structure - acts as for loop
         const tool = data[currentIndex];
         getUseCase(tool)
             .then(res => {
-                finalData.push({name: tool.name, url: tool.url, desc: tool.desc, homepage: tool.homepage, pricingLink: tool.pricingLink, featureLinks: tool.featureLinks, ...res});
+                useCaseData.push({name: tool.name, url: tool.url, desc: tool.desc, homepage: tool.homepage, pricingLink: tool.pricingLink, featureLinks: tool.featureLinks, ...res});
                 currentIndex++;
                 setTimeout(iterateData, 3000);
             })
             .catch(e => {
                 console.log(e);
-                finalData.push({name: tool.name, url: tool.url, desc: tool.desc, homepage: tool.homepage, pricingLink: tool.pricingLink, featureLinks: tool.featureLinks, useCases: ["Use cases cannot be determined."]});
+                useCaseData.push({name: tool.name, url: tool.url, desc: tool.desc, homepage: tool.homepage, pricingLink: tool.pricingLink, featureLinks: tool.featureLinks, useCases: ["Use cases cannot be determined."]});
                 currentIndex++;
                 setTimeout(iterateData, 3000);
             })
     }
     else { // Once every url has been iterated through
-        fs.writeFile('data/useCaseData.json', JSON.stringify(finalData, null, 2), (err) => {
+        fs.writeFile('data/useCaseData.json', JSON.stringify(useCaseData, null, 2), (err) => {
             if (err) throw err;
             console.log('Final use casedata saved.');
         });
@@ -53,7 +53,7 @@ function iterateData() {
 async function getUseCase(tool) {
     console.log(`Now processing ${tool.url}`);
     let data = tool.homepage + tool.desc;
-    // if a use case link exists
+    // if a use case link exists, use Jina to scrape it
     if (tool.useCaseLink) {
         try {
             const jinaResponse = await axios.get(`https://r.jina.ai/${tool.useCaseLink}`); // use jina to scrape that link
@@ -70,7 +70,7 @@ async function getUseCase(tool) {
         }
     }
     if(data.length > 15000) {
-        data = data.substring(0, 15000);
+        data = data.substring(0, 15000); // cuts prompt short and saves money - 15000 chars is prob still enough to determine use cases
     }
     // feed scraped data into LLM for it to determine use cases
     try {

@@ -21,29 +21,29 @@ const featuresSchema = z.object({
 const data = JSON.parse(fs.readFileSync('data/useCaseData.json', 'utf8'));
 
 let currentIndex = 0;
-const finalData = [];
+const featuresData = [];
 
-iterateData();
+iterateData(); // starts the process
 
 function iterateData() {
-    if (currentIndex < data.length) {
+    if (currentIndex < data.length) { // recursive function structure, acts as for loop
         console.log(`${data.length - currentIndex} tools left to be processed.`);
         const tool = data[currentIndex];
         getKeyFeatures(tool)
             .then(res => {
-                finalData.push({name: tool.name, url: tool.url, desc: tool.desc, homepage: tool.homepage, useCases: tool.useCases, pricingLink: tool.pricingLink, ...res});
+                featuresData.push({name: tool.name, url: tool.url, desc: tool.desc, homepage: tool.homepage, useCases: tool.useCases, pricingLink: tool.pricingLink, ...res});
                 currentIndex++;
                 setTimeout(iterateData, 3000);
             })
             .catch(e => {
                 console.log(e);
-                finalData.push({name: tool.name, url: tool.url, desc: tool.desc, homepage: tool.homepage, useCases: tool.useCases, pricingLink: tool.pricingLink, keyFeatures: ["Key features cannot be determined."]});
+                featuresData.push({name: tool.name, url: tool.url, desc: tool.desc, homepage: tool.homepage, useCases: tool.useCases, pricingLink: tool.pricingLink, keyFeatures: ["Key features cannot be determined."]});
                 currentIndex++;
                 setTimeout(iterateData, 3000);
             })
     }
     else { // Once every url has been iterated through
-        fs.writeFile('data/featuresData.json', JSON.stringify(finalData, null, 2), (err) => {
+        fs.writeFile('data/featuresData.json', JSON.stringify(featuresData, null, 2), (err) => {
             if (err) throw err;
             console.log('Features data saved.');
         });
@@ -71,7 +71,7 @@ async function getKeyFeatures(tool) {
             }
         }
     }
-    if(data.length > 20000) {
+    if(data.length > 20000) { // cuts prompt short - saves some money. 20000 chars is likely enough to determine key features
         data = data.substring(0, 20000);
     }
     // feed scraped data into LLM for it to determine key features
